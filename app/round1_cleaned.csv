@@ -1,0 +1,1713 @@
+Institute,Branch Name,Quota,Category,Seat Pool,Rank,Percentile,Round No,University
+COEP,CS,HU,OPEN,Gender-Neutral,151,99.9174143,1,SPPU
+COEP,CS,HU,OBC,Gender-Neutral,271,99.8645445,1,SPPU
+COEP,CS,HU,SC,Gender-Neutral,1933,99.2116821,1,SPPU
+COEP,CS,HU,ST,Gender-Neutral,9118,96.4755805,1,SPPU
+COEP,CS,HU,NT1,Gender-Neutral,329,99.8393784,1,SPPU
+COEP,CS,HU,NT2,Gender-Neutral,357,99.8281723,1,SPPU
+COEP,CS,HU,NT3,Gender-Neutral,221,99.8879384,1,SPPU
+COEP,CS,HU,VJ,Gender-Neutral,995,99.5677969,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,OPEN,Gender-Neutral,797,99.6445941,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,OBC,Gender-Neutral,1155,99.5078483,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,SC,Gender-Neutral,7027,97.2746725,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,ST,Gender-Neutral,21920,91.1342735,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,NT1,Gender-Neutral,3921,98.4828202,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,NT2,Gender-Neutral,1687,99.3092834,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,NT3,Gender-Neutral,2264,99.1007562,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,VJ,Gender-Neutral,1610,99.3326125,1,SPPU
+COEP,ENTC,HU,OPEN,Gender-Neutral,346,99.8312078,1,SPPU
+COEP,ENTC,HU,OBC,Gender-Neutral,583,99.7310523,1,SPPU
+COEP,ENTC,HU,SC,Gender-Neutral,3802,98.5069349,1,SPPU
+COEP,ENTC,HU,ST,Gender-Neutral,11746,95.3905345,1,SPPU
+COEP,ENTC,HU,NT1,Gender-Neutral,1135,99.5127893,1,SPPU
+COEP,ENTC,HU,NT2,Gender-Neutral,643,99.7054547,1,SPPU
+COEP,ENTC,HU,NT3,Gender-Neutral,983,99.5723931,1,SPPU
+COEP,ENTC,HU,VJ,Gender-Neutral,12054,95.2749719,1,SPPU
+PICT,CS,HU,OPEN,Gender-Neutral,706,99.6779262,1,SPPU
+PICT,CS,HU,OBC,Gender-Neutral,1029,99.5532865,1,SPPU
+PICT,CS,HU,SC,Gender-Neutral,5837,97.7553311,1,SPPU
+PICT,CS,HU,ST,Gender-Neutral,18009,92.7710843,1,SPPU
+PICT,CS,HU,NT1,Gender-Neutral,2502,99.0182954,1,SPPU
+PICT,CS,HU,NT2,Gender-Neutral,1312,99.4522788,1,SPPU
+PICT,CS,HU,NT3,Gender-Neutral,981,99.5723931,1,SPPU
+PICT,CS,HU,VJ,Gender-Neutral,5596,97.8417807,1,SPPU
+MCOE,CS,HU,OPEN,Gender-Neutral,13039,94.8759338,1,SPPU
+MCOE,CS,HU,OBC,Gender-Neutral,14852,94.105562,1,SPPU
+MCOE,CS,HU,SC,Gender-Neutral,38445,84.2006246,1,SPPU
+MCOE,CS,HU,ST,Gender-Neutral,107158,43.1162283,1,SPPU
+MCOE,CS,HU,NT1,Gender-Neutral,22616,90.8072168,1,SPPU
+MCOE,CS,HU,NT2,Gender-Neutral,13906,94.5454545,1,SPPU
+MCOE,CS,HU,NT3,Gender-Neutral,15285,93.9473684,1,SPPU
+MCOE,CS,HU,VJ,Gender-Neutral,37701,84.3950599,1,SPPU
+MCOE,IT,HU,OPEN,Gender-Neutral,16179,93.5395473,1,SPPU
+MCOE,IT,HU,OBC,Gender-Neutral,17562,93.0014674,1,SPPU
+MCOE,IT,HU,SC,Gender-Neutral,39241,83.5642755,1,SPPU
+MCOE,IT,HU,ST,Gender-Neutral,86747,58.1382561,1,SPPU
+MCOE,IT,HU,NT1,Gender-Neutral,22317,90.9958615,1,SPPU
+MCOE,IT,HU,NT2,Gender-Neutral,17654,92.9354446,1,SPPU
+MCOE,IT,HU,NT3,Gender-Neutral,15006,94.0441452,1,SPPU
+MCOE,IT,HU,VJ,Gender-Neutral,38163,84.2081516,1,SPPU
+MCOE,ELECTRICAL,HU,OPEN,Gender-Neutral,74232,66.0524144,1,SPPU
+MCOE,ELECTRICAL,HU,OBC,Gender-Neutral,83037,60.8798115,1,SPPU
+MCOE,ELECTRICAL,HU,SC,Gender-Neutral,135355,13.224841,1,SPPU
+MCOE,ELECTRICAL,HU,ST,Gender-Neutral,104648,45.6445719,1,SPPU
+MCOE,ELECTRICAL,HU,NT1,Gender-Neutral,117862,32.8844711,1,SPPU
+MCOE,ELECTRICAL,HU,NT2,Gender-Neutral,88291,56.982253,1,SPPU
+MCOE,ELECTRICAL,HU,NT3,Gender-Neutral,87891,57.7272051,1,SPPU
+MCOE,ELECTRICAL,HU,VJ,Gender-Neutral,130740,18.9046135,1,SPPU
+MCOE,ENTC,HU,OPEN,Gender-Neutral,27940,88.6173431,1,SPPU
+MCOE,ENTC,HU,OBC,Gender-Neutral,31073,87.2266503,1,SPPU
+MCOE,ENTC,HU,SC,Gender-Neutral,73675,66.4309764,1,SPPU
+MCOE,ENTC,HU,ST,Gender-Neutral,77034,64.2666767,1,SPPU
+MCOE,ENTC,HU,NT1,Gender-Neutral,44407,81.1192722,1,SPPU
+MCOE,ENTC,HU,NT2,Gender-Neutral,34404,85.8062103,1,SPPU
+MCOE,ENTC,HU,NT3,Gender-Neutral,32886,86.3550668,1,SPPU
+MCOE,ENTC,HU,VJ,Gender-Neutral,114089,36.5842646,1,SPPU
+MCOE,MECHANICAL,HU,OPEN,Gender-Neutral,83107,60.8798115,1,SPPU
+MCOE,MECHANICAL,HU,OBC,Gender-Neutral,90165,55.8997381,1,SPPU
+MCOE,MECHANICAL,HU,SC,Gender-Neutral,135173,13.3162279,1,SPPU
+MCOE,MECHANICAL,HU,ST,Gender-Neutral,116456,34.1818319,1,SPPU
+MCOE,MECHANICAL,HU,NT1,Gender-Neutral,30852,18.8110994,1,SPPU
+MCOE,MECHANICAL,HU,NT2,Gender-Neutral,103323,46.1690466,1,SPPU
+MCOE,MECHANICAL,HU,NT3,Gender-Neutral,100332,48.9725355,1,SPPU
+MCOE,MECHANICAL,HU,VJ,Gender-Neutral,124890,25.5459544,1,SPPU
+MCOE,E & C,HU,OPEN,Gender-Neutral,23259,90.5963303,1,SPPU
+MCOE,E & C,HU,OBC,Gender-Neutral,29054,88.0989788,1,SPPU
+MCOE,E & C,HU,SC,Gender-Neutral,66877,69.7774101,1,SPPU
+MCOE,E & C,HU,ST,Gender-Neutral,95389,52.2466614,1,SPPU
+MCOE,E & C,HU,NT1,Gender-Neutral,28131,88.5133125,1,SPPU
+MCOE,E & C,HU,NT2,Gender-Neutral,29055,88.0989788,1,SPPU
+MCOE,E & C,HU,NT3,Gender-Neutral,33270,86.2561357,1,SPPU
+MCOE,E & C,HU,VJ,Gender-Neutral,64788,71.3590844,1,SPPU
+MCOE,AIML,HU,OPEN,Gender-Neutral,19309,92.2256284,1,SPPU
+MCOE,AIML,HU,OBC,Gender-Neutral,20205,91.7707151,1,SPPU
+MCOE,AIML,HU,SC,Gender-Neutral,50492,78.4065273,1,SPPU
+MCOE,AIML,HU,ST,Gender-Neutral,25122,89.7275823,1,SPPU
+MCOE,AIML,HU,NT1,Gender-Neutral,43097,82.0912919,1,SPPU
+MCOE,AIML,HU,NT2,Gender-Neutral,17550,93.0014674,1,SPPU
+MCOE,AIML,HU,NT3,Gender-Neutral,27212,88.8621945,1,SPPU
+MCOE,AIML,HU,VJ,Gender-Neutral,36817,84.5158411,1,SPPU
+MCOE,AIDS,HU,OPEN,Gender-Neutral,17809,92.8593873,1,SPPU
+MCOE,AIDS,HU,OBC,Gender-Neutral,20009,91.8981572,1,SPPU
+MCOE,AIDS,HU,SC,Gender-Neutral,43470,81.8534982,1,SPPU
+MCOE,AIDS,HU,ST,Gender-Neutral,137815,9.283282,1,SPPU
+MCOE,AIDS,HU,NT1,Gender-Neutral,36150,85.1537884,1,SPPU
+MCOE,AIDS,HU,NT2,Gender-Neutral,21228,91.3774931,1,SPPU
+MCOE,AIDS,HU,NT3,Gender-Neutral,37026,84.5084815,1,SPPU
+MCOE,AIDS,HU,VJ,Gender-Neutral,38209,84.2081516,1,SPPU
+JSPM  TATHAWADE,CIVIL,HU,OPEN,Gender-Neutral,91065,55.2985075,1,SPPU
+JSPM  TATHAWADE,CIVIL,HU,OBC,Gender-Neutral,129006,20.9352787,1,SPPU
+JSPM  TATHAWADE,CIVIL,HU,SC,Gender-Neutral,138251,8.8688138,1,SPPU
+JSPM  TATHAWADE,CIVIL,HU,ST,Gender-Neutral,135671,12.6949825,1,SPPU
+JSPM  TATHAWADE,CIVIL,HU,NT1,Gender-Neutral,114701,36.1619626,1,SPPU
+JSPM  TATHAWADE,CIVIL,HU,NT2,Gender-Neutral,110376,39.9251777,1,SPPU
+JSPM  TATHAWADE,CIVIL,HU,NT3,Gender-Neutral,106368,43.5071268,1,SPPU
+JSPM  TATHAWADE,CIVIL,HU,VJ,Gender-Neutral,102258,46.8567142,1,SPPU
+JSPM  TATHAWADE,CS,HU,OPEN,Gender-Neutral,8103,96.8735271,1,SPPU
+JSPM  TATHAWADE,CS,HU,OBC,Gender-Neutral,8816,96.5922225,1,SPPU
+JSPM  TATHAWADE,CS,HU,SC,Gender-Neutral,19239,92.2256284,1,SPPU
+JSPM  TATHAWADE,CS,HU,ST,Gender-Neutral,64506,71.3590844,1,SPPU
+JSPM  TATHAWADE,CS,HU,NT1,Gender-Neutral,13658,94.616159,1,SPPU
+JSPM  TATHAWADE,CS,HU,NT2,Gender-Neutral,9767,96.207802,1,SPPU
+JSPM  TATHAWADE,CS,HU,NT3,Gender-Neutral,8768,96.5951359,1,SPPU
+JSPM  TATHAWADE,CS,HU,VJ,Gender-Neutral,11225,95.654289,1,SPPU
+JSPM  TATHAWADE,IT,HU,OPEN,Gender-Neutral,10777,95.7761974,1,SPPU
+JSPM  TATHAWADE,IT,HU,OBC,Gender-Neutral,11832,95.3703704,1,SPPU
+JSPM  TATHAWADE,IT,HU,SC,Gender-Neutral,22562,90.8627157,1,SPPU
+JSPM  TATHAWADE,IT,HU,ST,Gender-Neutral,88923,56.7366842,1,SPPU
+JSPM  TATHAWADE,IT,HU,NT1,Gender-Neutral,19453,92.158114,1,SPPU
+JSPM  TATHAWADE,IT,HU,NT2,Gender-Neutral,13176,94.8375696,1,SPPU
+JSPM  TATHAWADE,IT,HU,NT3,Gender-Neutral,11089,95.660165,1,SPPU
+JSPM  TATHAWADE,IT,HU,VJ,Gender-Neutral,18528,92.5560269,1,SPPU
+JSPM  TATHAWADE,Computer Science and Business Systems,HU,OPEN,Gender-Neutral,12619,95.0628437,1,SPPU
+JSPM  TATHAWADE,Computer Science and Business Systems,HU,OBC,Gender-Neutral,13682,94.616159,1,SPPU
+JSPM  TATHAWADE,Computer Science and Business Systems,HU,SC,Gender-Neutral,24979,89.9583318,1,SPPU
+JSPM  TATHAWADE,Computer Science and Business Systems,HU,ST,Gender-Neutral,98533,49.6143282,1,SPPU
+JSPM  TATHAWADE,Computer Science and Business Systems,HU,NT1,Gender-Neutral,30086,87.6216398,1,SPPU
+JSPM  TATHAWADE,Computer Science and Business Systems,HU,NT2,Gender-Neutral,22079,91.0376802,1,SPPU
+JSPM  TATHAWADE,Computer Science and Business Systems,HU,NT3,Gender-Neutral,15405,93.8586283,1,SPPU
+JSPM  TATHAWADE,Computer Science and Business Systems,HU,VJ,Gender-Neutral,25138,89.7275823,1,SPPU
+JSPM  TATHAWADE,ELECTRICAL,HU,OPEN,Gender-Neutral,48039,79.7413145,1,SPPU
+JSPM  TATHAWADE,ELECTRICAL,HU,OBC,Gender-Neutral,56038,75.867353,1,SPPU
+JSPM  TATHAWADE,ELECTRICAL,HU,SC,Gender-Neutral,57575,75.1476841,1,SPPU
+JSPM  TATHAWADE,ELECTRICAL,HU,ST,Gender-Neutral,70315,68.3823818,1,SPPU
+JSPM  TATHAWADE,ELECTRICAL,HU,NT1,Gender-Neutral,61681,73.1851907,1,SPPU
+JSPM  TATHAWADE,ELECTRICAL,HU,NT2,Gender-Neutral,52926,77.0079706,1,SPPU
+JSPM  TATHAWADE,ELECTRICAL,HU,NT3,Gender-Neutral,82886,60.8798115,1,SPPU
+JSPM  TATHAWADE,ELECTRICAL,HU,VJ,Gender-Neutral,127139,23.2280676,1,SPPU
+JSPM  TATHAWADE,ENTC,HU,OPEN,Gender-Neutral,20234,91.7707151,1,SPPU
+JSPM  TATHAWADE,ENTC,HU,OBC,Gender-Neutral,22299,90.9958615,1,SPPU
+JSPM  TATHAWADE,ENTC,HU,SC,Gender-Neutral,34131,85.9227307,1,SPPU
+JSPM  TATHAWADE,ENTC,HU,ST,Gender-Neutral,121896,29.2444305,1,SPPU
+JSPM  TATHAWADE,ENTC,HU,NT1,Gender-Neutral,29271,88.0751247,1,SPPU
+JSPM  TATHAWADE,ENTC,HU,NT2,Gender-Neutral,20868,91.6480738,1,SPPU
+JSPM  TATHAWADE,ENTC,HU,NT3,Gender-Neutral,23945,90.2424513,1,SPPU
+JSPM  TATHAWADE,ENTC,HU,VJ,Gender-Neutral,37954,84.216054,1,SPPU
+JSPM  TATHAWADE,MECHANICAL,HU,OPEN,Gender-Neutral,61983,73.0265619,1,SPPU
+JSPM  TATHAWADE,MECHANICAL,HU,OBC,Gender-Neutral,66767,70.2813361,1,SPPU
+JSPM  TATHAWADE,MECHANICAL,HU,SC,Gender-Neutral,96943,50.8083922,1,SPPU
+JSPM  TATHAWADE,MECHANICAL,HU,ST,Gender-Neutral,86566,58.1382561,1,SPPU
+JSPM  TATHAWADE,MECHANICAL,HU,NT1,Gender-Neutral,101908,47.3478734,1,SPPU
+JSPM  TATHAWADE,MECHANICAL,HU,NT2,Gender-Neutral,71046,67.711928,1,SPPU
+JSPM  TATHAWADE,MECHANICAL,HU,NT3,Gender-Neutral,75058,65.4207881,1,SPPU
+JSPM  TATHAWADE,MECHANICAL,HU,VJ,Gender-Neutral,100423,48.9725355,1,SPPU
+JSPM  TATHAWADE,Automation and Robotics,HU,OPEN,Gender-Neutral,32386,86.6965956,1,SPPU
+JSPM  TATHAWADE,Automation and Robotics,HU,OBC,Gender-Neutral,39310,83.4300164,1,SPPU
+JSPM  TATHAWADE,Automation and Robotics,HU,SC,Gender-Neutral,50254,78.4161664,1,SPPU
+JSPM  TATHAWADE,Automation and Robotics,HU,ST,Gender-Neutral,58729,74.4658288,1,SPPU
+JSPM  TATHAWADE,Automation and Robotics,HU,NT1,Gender-Neutral,41668,82.4443082,1,SPPU
+JSPM  TATHAWADE,Automation and Robotics,HU,NT2,Gender-Neutral,40436,83.2373857,1,SPPU
+JSPM  TATHAWADE,Automation and Robotics,HU,NT3,Gender-Neutral,50327,78.4065273,1,SPPU
+JSPM  TATHAWADE,Automation and Robotics,HU,VJ,Gender-Neutral,59308,74.1356658,1,SPPU
+Cummins College,CS,HU,OPEN,Gender-Neutral,3225,98.7308947,1,SPPU
+Cummins College,CS,HU,OBC,Gender-Neutral,4352,98.2961113,1,SPPU
+Cummins College,CS,HU,SC,Gender-Neutral,16119,93.5868331,1,SPPU
+Cummins College,CS,HU,ST,Gender-Neutral,79418,62.7344336,1,SPPU
+Cummins College,CS,HU,NT1,Gender-Neutral,8986,96.5051241,1,SPPU
+Cummins College,CS,HU,NT2,Gender-Neutral,8996,96.5051241,1,SPPU
+Cummins College,CS,HU,NT3,Gender-Neutral,9921,96.125889,1,SPPU
+Cummins College,CS,HU,VJ,Gender-Neutral,17231,93.1206307,1,SPPU
+Cummins College,IT,HU,OPEN,Gender-Neutral,4167,98.3772737,1,SPPU
+Cummins College,IT,HU,OBC,Gender-Neutral,4850,98.1343284,1,SPPU
+Cummins College,IT,HU,SC,Gender-Neutral,19679,92.1314889,1,SPPU
+Cummins College,IT,HU,ST,Gender-Neutral,84913,59.6839864,1,SPPU
+Cummins College,IT,HU,NT1,Gender-Neutral,10653,95.8552138,1,SPPU
+Cummins College,IT,HU,NT2,Gender-Neutral,9524,96.2813957,1,SPPU
+Cummins College,IT,HU,NT3,Gender-Neutral,9985,96.0739719,1,SPPU
+Cummins College,IT,HU,VJ,Gender-Neutral,18124,92.733306,1,SPPU
+Cummins College,ENTC,HU,OPEN,Gender-Neutral,8038,96.87547,1,SPPU
+Cummins College,ENTC,HU,OBC,Gender-Neutral,10527,95.8847737,1,SPPU
+Cummins College,ENTC,HU,SC,Gender-Neutral,31548,86.9739855,1,SPPU
+Cummins College,ENTC,HU,ST,Gender-Neutral,123085,27.6545345,1,SPPU
+Cummins College,ENTC,HU,NT1,Gender-Neutral,19715,92.1314889,1,SPPU
+Cummins College,ENTC,HU,NT2,Gender-Neutral,12075,95.2749719,1,SPPU
+Cummins College,ENTC,HU,NT3,Gender-Neutral,14640,94.208479,1,SPPU
+Cummins College,ENTC,HU,VJ,Gender-Neutral,25725,89.5231349,1,SPPU
+Cummins College,Instrumentation and Control Engineering,HU,OPEN,Gender-Neutral,19303,92.2256284,1,SPPU
+Cummins College,Instrumentation and Control Engineering,HU,OBC,Gender-Neutral,25514,89.690179,1,SPPU
+Cummins College,Instrumentation and Control Engineering,HU,SC,Gender-Neutral,66139,70.6180504,1,SPPU
+Cummins College,Instrumentation and Control Engineering,HU,ST,Gender-Neutral,104838,44.6898706,1,SPPU
+Cummins College,Instrumentation and Control Engineering,HU,NT1,Gender-Neutral,75238,65.3263316,1,SPPU
+Cummins College,Instrumentation and Control Engineering,HU,NT2,Gender-Neutral,51632,78.067557,1,SPPU
+Cummins College,Instrumentation and Control Engineering,HU,NT3,Gender-Neutral,35204,85.3534944,1,SPPU
+Cummins College,Instrumentation and Control Engineering,HU,VJ,Gender-Neutral,44174,81.2345291,1,SPPU
+Cummins College,Mechanical,HU,OPEN,Gender-Neutral,17675,92.9051391,1,SPPU
+Cummins College,Mechanical,HU,OBC,Gender-Neutral,26454,89.2735528,1,SPPU
+Cummins College,Mechanical,HU,SC,Gender-Neutral,81284,61.4332053,1,SPPU
+Cummins College,Mechanical,HU,ST,Gender-Neutral,59435,74.0797795,1,SPPU
+Cummins College,Mechanical,HU,NT1,Gender-Neutral,47930,79.7413145,1,SPPU
+Cummins College,Mechanical,HU,NT2,Gender-Neutral,57570,75.1476841,1,SPPU
+Cummins College,Mechanical,HU,NT3,Gender-Neutral,34301,85.9219677,1,SPPU
+Cummins College,Mechanical,HU,VJ,Gender-Neutral,52289,77.7994669,1,SPPU
+VIT,Chemical,HU,OPEN,Gender-Neutral,19807,92.1155289,1,SPPU
+VIT,Chemical,HU,OBC,Gender-Neutral,26555,89.1792071,1,SPPU
+VIT,Chemical,HU,SC,Gender-Neutral,32548,86.6370673,1,SPPU
+VIT,Chemical,HU,ST,Gender-Neutral,123635,27.145045,1,SPPU
+VIT,Chemical,HU,NT1,Gender-Neutral,55096,76.2843676,1,SPPU
+VIT,Chemical,HU,NT2,Gender-Neutral,32457,86.6965956,1,SPPU
+VIT,Chemical,HU,NT3,Gender-Neutral,50295,78.4161664,1,SPPU
+VIT,Chemical,HU,VJ,Gender-Neutral,20160,91.804929,1,SPPU
+VIT,Mechanical,HU,OPEN,Gender-Neutral,11081,95.660165,1,SPPU
+VIT,Mechanical,HU,OBC,Gender-Neutral,15580,93.8108199,1,SPPU
+VIT,Mechanical,HU,SC,Gender-Neutral,29750,87.7770341,1,SPPU
+VIT,Mechanical,HU,ST,Gender-Neutral,123276,27.3241113,1,SPPU
+VIT,Mechanical,HU,NT1,Gender-Neutral,29177,88.0771545,1,SPPU
+VIT,Mechanical,HU,NT2,Gender-Neutral,18840,92.4568642,1,SPPU
+VIT,Mechanical,HU,NT3,Gender-Neutral,22235,91.0138421,1,SPPU
+VIT,Mechanical,HU,VJ,Gender-Neutral,40202,83.348395,1,SPPU
+VIT,CSE (Artificial Intelligence and Machine Learning),HU,OPEN,Gender-Neutral,2942,98.8527647,1,SPPU
+VIT,CSE (Artificial Intelligence and Machine Learning),HU,OBC,Gender-Neutral,3247,98.7205387,1,SPPU
+VIT,CSE (Artificial Intelligence and Machine Learning),HU,SC,Gender-Neutral,11470,95.5068431,1,SPPU
+VIT,CSE (Artificial Intelligence and Machine Learning),HU,ST,Gender-Neutral,26281,89.3527871,1,SPPU
+VIT,CSE (Artificial Intelligence and Machine Learning),HU,NT1,Gender-Neutral,4372,98.2931727,1,SPPU
+VIT,CSE (Artificial Intelligence and Machine Learning),HU,NT2,Gender-Neutral,3710,98.5633908,1,SPPU
+VIT,CSE (Artificial Intelligence and Machine Learning),HU,NT3,Gender-Neutral,5872,97.7443048,1,SPPU
+VIT,CSE (Artificial Intelligence and Machine Learning),HU,VJ,Gender-Neutral,6412,97.5196409,1,SPPU
+VIT,Computer Science and Engineering (Artificial Intelligence),HU,OPEN,Gender-Neutral,3404,98.665225,1,SPPU
+VIT,Computer Science and Engineering (Artificial Intelligence),HU,OBC,Gender-Neutral,3871,98.497446,1,SPPU
+VIT,Computer Science and Engineering (Artificial Intelligence),HU,SC,Gender-Neutral,11074,95.6795422,1,SPPU
+VIT,Computer Science and Engineering (Artificial Intelligence),HU,ST,Gender-Neutral,34320,85.9219677,1,SPPU
+VIT,Computer Science and Engineering (Artificial Intelligence),HU,NT1,Gender-Neutral,4646,98.192048,1,SPPU
+VIT,Computer Science and Engineering (Artificial Intelligence),HU,NT2,Gender-Neutral,4052,98.4244234,1,SPPU
+VIT,Computer Science and Engineering (Artificial Intelligence),HU,NT3,Gender-Neutral,6141,97.6333538,1,SPPU
+VIT,Computer Science and Engineering (Artificial Intelligence),HU,VJ,Gender-Neutral,7241,97.2171379,1,SPPU
+VIT,AIDS,HU,OPEN,Gender-Neutral,3979,98.4546548,1,SPPU
+VIT,AIDS,HU,OBC,Gender-Neutral,4366,98.2961113,1,SPPU
+VIT,AIDS,HU,SC,Gender-Neutral,14347,94.3626357,1,SPPU
+VIT,AIDS,HU,ST,Gender-Neutral,49766,78.7120349,1,SPPU
+VIT,AIDS,HU,NT1,Gender-Neutral,6459,97.5168711,1,SPPU
+VIT,AIDS,HU,NT2,Gender-Neutral,5418,97.9119196,1,SPPU
+VIT,AIDS,HU,NT3,Gender-Neutral,6111,97.6500226,1,SPPU
+VIT,AIDS,HU,VJ,Gender-Neutral,7376,97.1523959,1,SPPU
+VIT,CS,HU,OPEN,Gender-Neutral,1869,99.237879,1,SPPU
+VIT,CS,HU,OBC,Gender-Neutral,2147,99.1283202,1,SPPU
+VIT,CS,HU,SC,Gender-Neutral,7496,97.1224198,1,SPPU
+VIT,CS,HU,ST,Gender-Neutral,28510,88.2803409,1,SPPU
+VIT,CS,HU,NT1,Gender-Neutral,4629,98.1943767,1,SPPU
+VIT,CS,HU,NT2,Gender-Neutral,2156,99.1238065,1,SPPU
+VIT,CS,HU,NT3,Gender-Neutral,2654,98.9502201,1,SPPU
+VIT,CS,HU,VJ,Gender-Neutral,2910,98.855964,1,SPPU
+VIT,IT,HU,OPEN,Gender-Neutral,2489,99.0182954,1,SPPU
+VIT,IT,HU,OBC,Gender-Neutral,2734,98.9338939,1,SPPU
+VIT,IT,HU,SC,Gender-Neutral,9153,96.4414768,1,SPPU
+VIT,IT,HU,ST,Gender-Neutral,33315,86.2561357,1,SPPU
+VIT,IT,HU,NT1,Gender-Neutral,5915,97.7289694,1,SPPU
+VIT,IT,HU,NT2,Gender-Neutral,2757,98.9058505,1,SPPU
+VIT,IT,HU,NT3,Gender-Neutral,2712,98.939513,1,SPPU
+VIT,IT,HU,VJ,Gender-Neutral,5189,98.0045011,1,SPPU
+VIT,ENTC,HU,OPEN,Gender-Neutral,5013,98.0707133,1,SPPU
+VIT,ENTC,HU,OBC,Gender-Neutral,5826,97.7553311,1,SPPU
+VIT,ENTC,HU,SC,Gender-Neutral,18210,92.6748971,1,SPPU
+VIT,ENTC,HU,ST,Gender-Neutral,78223,63.6910141,1,SPPU
+VIT,ENTC,HU,NT1,Gender-Neutral,7931,96.9303086,1,SPPU
+VIT,ENTC,HU,NT2,Gender-Neutral,7501,97.118102,1,SPPU
+VIT,ENTC,HU,NT3,Gender-Neutral,5271,97.9642817,1,SPPU
+VIT,ENTC,HU,VJ,Gender-Neutral,10996,95.6910814,1,SPPU
+VIT,Instrumentation and Control,HU,OPEN,Gender-Neutral,15032,94.0399594,1,SPPU
+VIT,Instrumentation and Control,HU,OBC,Gender-Neutral,20107,91.804929,1,SPPU
+VIT,Instrumentation and Control,HU,SC,Gender-Neutral,32799,86.3770498,1,SPPU
+VIT,Instrumentation and Control,HU,ST,Gender-Neutral,132386,16.9363708,1,SPPU
+VIT,Instrumentation and Control,HU,NT1,Gender-Neutral,18097,92.733306,1,SPPU
+VIT,Instrumentation and Control,HU,NT2,Gender-Neutral,16319,93.521357,1,SPPU
+VIT,Instrumentation and Control,HU,NT3,Gender-Neutral,37216,84.4681938,1,SPPU
+VIT,Instrumentation and Control,HU,VJ,Gender-Neutral,40810,83.0041152,1,SPPU
+VIIT,CS,HU,OPEN,Gender-Neutral,4038,98.4244234,1,SPPU
+VIIT,CS,HU,OBC,Gender-Neutral,4426,98.2750869,1,SPPU
+VIIT,CS,HU,SC,Gender-Neutral,12165,95.2286363,1,SPPU
+VIIT,CS,HU,ST,Gender-Neutral,43641,81.5104589,1,SPPU
+VIIT,CS,HU,NT1,Gender-Neutral,6045,97.6688314,1,SPPU
+VIIT,CS,HU,NT2,Gender-Neutral,4855,98.1183995,1,SPPU
+VIIT,CS,HU,NT3,Gender-Neutral,4896,98.1087382,1,SPPU
+VIIT,CS,HU,VJ,Gender-Neutral,8400,96.7339025,1,SPPU
+VIIT,IT,HU,OPEN,Gender-Neutral,4871,98.1183995,1,SPPU
+VIIT,IT,HU,OBC,Gender-Neutral,5064,98.0546203,1,SPPU
+VIIT,IT,HU,SC,Gender-Neutral,15034,94.0399594,1,SPPU
+VIIT,IT,HU,ST,Gender-Neutral,54056,76.7693871,1,SPPU
+VIIT,IT,HU,NT1,Gender-Neutral,6817,97.3774785,1,SPPU
+VIIT,IT,HU,NT2,Gender-Neutral,4946,98.0762766,1,SPPU
+VIIT,IT,HU,NT3,Gender-Neutral,5695,97.7965436,1,SPPU
+VIIT,IT,HU,VJ,Gender-Neutral,11354,95.5823293,1,SPPU
+VIIT,Civil,HU,OPEN,Gender-Neutral,26375,89.2906503,1,SPPU
+VIIT,Civil,HU,OBC,Gender-Neutral,34031,86.0109616,1,SPPU
+VIIT,Civil,HU,SC,Gender-Neutral,43527,81.8534982,1,SPPU
+VIIT,Civil,HU,ST,Gender-Neutral,64573,71.3590844,1,SPPU
+VIIT,Civil,HU,NT1,Gender-Neutral,55661,75.8958975,1,SPPU
+VIIT,Civil,HU,NT2,Gender-Neutral,30683,87.3774785,1,SPPU
+VIIT,Civil,HU,NT3,Gender-Neutral,28982,88.0989788,1,SPPU
+VIIT,Civil,HU,VJ,Gender-Neutral,29731,87.7770341,1,SPPU
+VIIT,ENTC,HU,OPEN,Gender-Neutral,9181,96.432707,1,SPPU
+VIIT,ENTC,HU,OBC,Gender-Neutral,10634,95.8552138,1,SPPU
+VIIT,ENTC,HU,SC,Gender-Neutral,23882,90.2424513,1,SPPU
+VIIT,ENTC,HU,ST,Gender-Neutral,109141,41.1609401,1,SPPU
+VIIT,ENTC,HU,NT1,Gender-Neutral,12877,94.8920622,1,SPPU
+VIIT,ENTC,HU,NT2,Gender-Neutral,12867,94.8920622,1,SPPU
+VIIT,ENTC,HU,NT3,Gender-Neutral,11266,95.6228329,1,SPPU
+VIIT,ENTC,HU,VJ,Gender-Neutral,25470,89.690179,1,SPPU
+VIIT,Mechanical,HU,OPEN,Gender-Neutral,20462,91.7414317,1,SPPU
+VIIT,Mechanical,HU,OBC,Gender-Neutral,26490,89.2735528,1,SPPU
+VIIT,Mechanical,HU,SC,Gender-Neutral,39940,83.375844,1,SPPU
+VIIT,Mechanical,HU,ST,Gender-Neutral,88305,56.982253,1,SPPU
+VIIT,Mechanical,HU,NT1,Gender-Neutral,34674,85.6187666,1,SPPU
+VIIT,Mechanical,HU,NT2,Gender-Neutral,27482,88.7938441,1,SPPU
+VIIT,Mechanical,HU,NT3,Gender-Neutral,29329,88.0695638,1,SPPU
+VIIT,Mechanical,HU,VJ,Gender-Neutral,47144,79.8081214,1,SPPU
+VIIT,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,OPEN,Gender-Neutral,5311,97.9578813,1,SPPU
+VIIT,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,OBC,Gender-Neutral,5413,97.9119196,1,SPPU
+VIIT,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,SC,Gender-Neutral,15521,93.8260094,1,SPPU
+VIIT,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,ST,Gender-Neutral,64748,71.3590844,1,SPPU
+VIIT,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,NT1,Gender-Neutral,6841,97.3642653,1,SPPU
+VIIT,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,NT2,Gender-Neutral,5773,97.7814483,1,SPPU
+VIIT,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,NT3,Gender-Neutral,6546,97.4862048,1,SPPU
+VIIT,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,VJ,Gender-Neutral,20443,91.7414317,1,SPPU
+VIIT,Computer Science and Engineering(Data Science),HU,OPEN,Gender-Neutral,6633,97.4666143,1,SPPU
+VIIT,Computer Science and Engineering(Data Science),HU,OBC,Gender-Neutral,6889,97.3640058,1,SPPU
+VIIT,Computer Science and Engineering(Data Science),HU,SC,Gender-Neutral,19604,92.1445405,1,SPPU
+VIIT,Computer Science and Engineering(Data Science),HU,ST,Gender-Neutral,59851,73.642653,1,SPPU
+VIIT,Computer Science and Engineering(Data Science),HU,NT1,Gender-Neutral,19004,92.3494201,1,SPPU
+VIIT,Computer Science and Engineering(Data Science),HU,NT2,Gender-Neutral,17709,92.9051391,1,SPPU
+VIIT,Computer Science and Engineering(Data Science),HU,NT3,Gender-Neutral,16262,93.5265773,1,SPPU
+VIIT,Computer Science and Engineering(Data Science),HU,VJ,Gender-Neutral,16651,93.3965459,1,SPPU
+VIIT,Computer Science and Engineering (Artificial Intelligence),HU,OPEN,Gender-Neutral,6047,97.6688314,1,SPPU
+VIIT,Computer Science and Engineering (Artificial Intelligence),HU,OBC,Gender-Neutral,6548,97.4862048,1,SPPU
+VIIT,Computer Science and Engineering (Artificial Intelligence),HU,SC,Gender-Neutral,16942,93.2167123,1,SPPU
+VIIT,Computer Science and Engineering (Artificial Intelligence),HU,ST,Gender-Neutral,62549,72.394012,1,SPPU
+VIIT,Computer Science and Engineering (Artificial Intelligence),HU,NT1,Gender-Neutral,8803,96.5922225,1,SPPU
+VIIT,Computer Science and Engineering (Artificial Intelligence),HU,NT2,Gender-Neutral,7495,97.1224198,1,SPPU
+VIIT,Computer Science and Engineering (Artificial Intelligence),HU,NT3,Gender-Neutral,7166,97.253546,1,SPPU
+VIIT,Computer Science and Engineering (Artificial Intelligence),HU,VJ,Gender-Neutral,11781,95.3905345,1,SPPU
+VIIT,Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),HU,OPEN,Gender-Neutral,7237,97.2171379,1,SPPU
+VIIT,Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),HU,OBC,Gender-Neutral,7976,96.899283,1,SPPU
+VIIT,Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),HU,SC,Gender-Neutral,19639,92.1445405,1,SPPU
+VIIT,Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),HU,ST,Gender-Neutral,70425,68.3823818,1,SPPU
+VIIT,Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),HU,NT1,Gender-Neutral,24704,89.96633,1,SPPU
+VIIT,Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),HU,NT2,Gender-Neutral,10504,95.8847737,1,SPPU
+VIIT,Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),HU,NT3,Gender-Neutral,22560,90.8627157,1,SPPU
+VIIT,Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),HU,VJ,Gender-Neutral,17094,93.1853888,1,SPPU
+VIIT,Computer Engineering (Software Engineering),HU,OPEN,Gender-Neutral,5656,97.818535,1,SPPU
+VIIT,Computer Engineering (Software Engineering),HU,OBC,Gender-Neutral,6060,97.6631658,1,SPPU
+VIIT,Computer Engineering (Software Engineering),HU,SC,Gender-Neutral,16578,93.4050233,1,SPPU
+VIIT,Computer Engineering (Software Engineering),HU,ST,Gender-Neutral,58806,74.1935484,1,SPPU
+VIIT,Computer Engineering (Software Engineering),HU,NT1,Gender-Neutral,7506,97.118102,1,SPPU
+VIIT,Computer Engineering (Software Engineering),HU,NT2,Gender-Neutral,6811,97.3774785,1,SPPU
+VIIT,Computer Engineering (Software Engineering),HU,NT3,Gender-Neutral,8212,96.8380088,1,SPPU
+VIIT,Computer Engineering (Software Engineering),HU,VJ,Gender-Neutral,21438,91.2940735,1,SPPU
+VIIT,AIDS,HU,OPEN,Gender-Neutral,7080,97.2702662,1,SPPU
+VIIT,AIDS,HU,OBC,Gender-Neutral,7789,97.0060773,1,SPPU
+VIIT,AIDS,HU,SC,Gender-Neutral,19186,92.2858954,1,SPPU
+VIIT,AIDS,HU,ST,Gender-Neutral,61078,73.2522683,1,SPPU
+VIIT,AIDS,HU,NT1,Gender-Neutral,7624,97.0482604,1,SPPU
+VIIT,AIDS,HU,NT2,Gender-Neutral,8571,96.6666667,1,SPPU
+VIIT,AIDS,HU,NT3,Gender-Neutral,8181,96.8454614,1,SPPU
+VIIT,AIDS,HU,VJ,Gender-Neutral,15172,93.9947487,1,SPPU
+PCCOE,Civil,HU,OPEN,Gender-Neutral,18622,92.4956109,1,SPPU
+PCCOE,Civil,HU,OBC,Gender-Neutral,24575,90.0488423,1,SPPU
+PCCOE,Civil,HU,SC,Gender-Neutral,34368,85.9219677,1,SPPU
+PCCOE,Civil,HU,ST,Gender-Neutral,67575,69.6572694,1,SPPU
+PCCOE,Civil,HU,NT1,Gender-Neutral,28304,88.2852988,1,SPPU
+PCCOE,Civil,HU,NT2,Gender-Neutral,25692,89.5231349,1,SPPU
+PCCOE,Civil,HU,NT3,Gender-Neutral,33001,86.3550668,1,SPPU
+PCCOE,Civil,HU,VJ,Gender-Neutral,43537,81.8534982,1,SPPU
+PCCOE,CS,HU,OPEN,Gender-Neutral,2805,98.89263,1,SPPU
+PCCOE,CS,HU,OBC,Gender-Neutral,3144,98.7673228,1,SPPU
+PCCOE,CS,HU,SC,Gender-Neutral,8441,96.7141785,1,SPPU
+PCCOE,CS,HU,ST,Gender-Neutral,35389,85.3410413,1,SPPU
+PCCOE,CS,HU,NT1,Gender-Neutral,5468,97.8929149,1,SPPU
+PCCOE,CS,HU,NT2,Gender-Neutral,3278,98.7149343,1,SPPU
+PCCOE,CS,HU,NT3,Gender-Neutral,3872,98.497446,1,SPPU
+PCCOE,CS,HU,VJ,Gender-Neutral,6125,97.6333538,1,SPPU
+PCCOE,IT,HU,OPEN,Gender-Neutral,3558,98.5970819,1,SPPU
+PCCOE,IT,HU,OBC,Gender-Neutral,3947,98.4759188,1,SPPU
+PCCOE,IT,HU,SC,Gender-Neutral,10217,96.0251375,1,SPPU
+PCCOE,IT,HU,ST,Gender-Neutral,36221,85.1488129,1,SPPU
+PCCOE,IT,HU,NT1,Gender-Neutral,6046,97.6688314,1,SPPU
+PCCOE,IT,HU,NT2,Gender-Neutral,3957,98.4661429,1,SPPU
+PCCOE,IT,HU,NT3,Gender-Neutral,4278,98.3377535,1,SPPU
+PCCOE,IT,HU,VJ,Gender-Neutral,8963,96.5057987,1,SPPU
+PCCOE,ENTC,HU,OPEN,Gender-Neutral,7154,97.253546,1,SPPU
+PCCOE,ENTC,HU,OBC,Gender-Neutral,8374,96.7504598,1,SPPU
+PCCOE,ENTC,HU,SC,Gender-Neutral,19876,92.0809832,1,SPPU
+PCCOE,ENTC,HU,ST,Gender-Neutral,100561,48.0589023,1,SPPU
+PCCOE,ENTC,HU,NT1,Gender-Neutral,10018,96.0680883,1,SPPU
+PCCOE,ENTC,HU,NT2,Gender-Neutral,8074,96.8735271,1,SPPU
+PCCOE,ENTC,HU,NT3,Gender-Neutral,10567,95.8828395,1,SPPU
+PCCOE,ENTC,HU,VJ,Gender-Neutral,20344,91.7514817,1,SPPU
+PCCOE,Mechanical,HU,OPEN,Gender-Neutral,16056,93.6017282,1,SPPU
+PCCOE,Mechanical,HU,OBC,Gender-Neutral,18428,92.5725251,1,SPPU
+PCCOE,Mechanical,HU,SC,Gender-Neutral,38181,84.2081516,1,SPPU
+PCCOE,Mechanical,HU,ST,Gender-Neutral,128219,21.9114832,1,SPPU
+PCCOE,Mechanical,HU,NT1,Gender-Neutral,36333,85.1488129,1,SPPU
+PCCOE,Mechanical,HU,NT2,Gender-Neutral,24282,90.1268014,1,SPPU
+PCCOE,Mechanical,HU,NT3,Gender-Neutral,17817,92.8593873,1,SPPU
+PCCOE,Mechanical,HU,VJ,Gender-Neutral,40678,83.1704016,1,SPPU
+PCCOE,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,OPEN,Gender-Neutral,3951,98.4759188,1,SPPU
+PCCOE,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,OBC,Gender-Neutral,4375,98.2931727,1,SPPU
+PCCOE,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,SC,Gender-Neutral,12433,95.1253222,1,SPPU
+PCCOE,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,ST,Gender-Neutral,44790,81.0352521,1,SPPU
+PCCOE,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,NT1,Gender-Neutral,6269,97.572663,1,SPPU
+PCCOE,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,NT2,Gender-Neutral,5366,97.9332333,1,SPPU
+PCCOE,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,NT3,Gender-Neutral,6796,97.3792778,1,SPPU
+PCCOE,Computer Science and Engineering(Artificial Intelligence and Machine Learning),HU,VJ,Gender-Neutral,10077,96.0633178,1,SPPU
+PCCOER,Civil,HU,OPEN,Gender-Neutral,77556,64.0952985,1,SPPU
+PCCOER,Civil,HU,OBC,Gender-Neutral,110187,39.9699925,1,SPPU
+PCCOER,Civil,HU,SC,Gender-Neutral,129193,20.9244385,1,SPPU
+PCCOER,Civil,HU,ST,Gender-Neutral,90324,55.7163295,1,SPPU
+PCCOER,Civil,HU,NT1,Gender-Neutral,119338,31.7228694,1,SPPU
+PCCOER,Civil,HU,NT2,Gender-Neutral,82927,60.8798115,1,SPPU
+PCCOER,Civil,HU,NT3,Gender-Neutral,107768,42.5955447,1,SPPU
+PCCOER,Civil,HU,VJ,Gender-Neutral,97527,50.6107355,1,SPPU
+PCCOER,CS,HU,OPEN,Gender-Neutral,8238,96.8317715,1,SPPU
+PCCOER,CS,HU,OBC,Gender-Neutral,10758,95.8405342,1,SPPU
+PCCOER,CS,HU,SC,Gender-Neutral,25441,89.690179,1,SPPU
+PCCOER,CS,HU,ST,Gender-Neutral,83356,60.750409,1,SPPU
+PCCOER,CS,HU,NT1,Gender-Neutral,17468,93.0452675,1,SPPU
+PCCOER,CS,HU,NT2,Gender-Neutral,11873,95.3636399,1,SPPU
+PCCOER,CS,HU,NT3,Gender-Neutral,9392,96.3409192,1,SPPU
+PCCOER,CS,HU,VJ,Gender-Neutral,24361,90.0942655,1,SPPU
+PCCOER,IT,HU,OPEN,Gender-Neutral,9924,96.125889,1,SPPU
+PCCOER,IT,HU,OBC,Gender-Neutral,11149,95.6557469,1,SPPU
+PCCOER,IT,HU,SC,Gender-Neutral,28754,88.144407,1,SPPU
+PCCOER,IT,HU,ST,Gender-Neutral,88231,56.982253,1,SPPU
+PCCOER,IT,HU,NT1,Gender-Neutral,13901,94.5454545,1,SPPU
+PCCOER,IT,HU,NT2,Gender-Neutral,11054,95.6795422,1,SPPU
+PCCOER,IT,HU,NT3,Gender-Neutral,13022,94.8759338,1,SPPU
+PCCOER,IT,HU,VJ,Gender-Neutral,30626,87.4150328,1,SPPU
+PCCOER,ENTC,HU,OPEN,Gender-Neutral,15445,93.8565297,1,SPPU
+PCCOER,ENTC,HU,OBC,Gender-Neutral,17380,93.09626,1,SPPU
+PCCOER,ENTC,HU,SC,Gender-Neutral,49938,78.5775598,1,SPPU
+PCCOER,ENTC,HU,ST,Gender-Neutral,121265,29.4111028,1,SPPU
+PCCOER,ENTC,HU,NT1,Gender-Neutral,32343,86.6965956,1,SPPU
+PCCOER,ENTC,HU,NT2,Gender-Neutral,19733,92.1155289,1,SPPU
+PCCOER,ENTC,HU,NT3,Gender-Neutral,30779,87.3774785,1,SPPU
+PCCOER,ENTC,HU,VJ,Gender-Neutral,27816,88.6695314,1,SPPU
+PCCOER,Mechanical,HU,OPEN,Gender-Neutral,33016,86.3550668,1,SPPU
+PCCOER,Mechanical,HU,OBC,Gender-Neutral,38261,84.2081516,1,SPPU
+PCCOER,Mechanical,HU,SC,Gender-Neutral,78505,63.6508999,1,SPPU
+PCCOER,Mechanical,HU,ST,Gender-Neutral,128710,21.5370732,1,SPPU
+PCCOER,Mechanical,HU,NT1,Gender-Neutral,50628,78.3430016,1,SPPU
+PCCOER,Mechanical,HU,NT2,Gender-Neutral,61974,73.0265619,1,SPPU
+PCCOER,Mechanical,HU,NT3,Gender-Neutral,76038,65.0367935,1,SPPU
+PCCOER,Mechanical,HU,VJ,Gender-Neutral,44084,81.2345291,1,SPPU
+Pvg Coet,CS,HU,OPEN,Gender-Neutral,5719,97.7845902,1,SPPU
+Pvg Coet,CS,HU,OBC,Gender-Neutral,6340,97.5524607,1,SPPU
+Pvg Coet,CS,HU,SC,Gender-Neutral,16002,93.6308986,1,SPPU
+Pvg Coet,CS,HU,ST,Gender-Neutral,54865,76.6166542,1,SPPU
+Pvg Coet,CS,HU,NT1,Gender-Neutral,29574,87.9332333,1,SPPU
+Pvg Coet,CS,HU,NT2,Gender-Neutral,7660,97.0463182,1,SPPU
+Pvg Coet,CS,HU,NT3,Gender-Neutral,8489,96.6912318,1,SPPU
+Pvg Coet,CS,HU,VJ,Gender-Neutral,39114,83.5642755,1,SPPU
+Pvg Coet,IT,HU,OPEN,Gender-Neutral,6927,97.3366305,1,SPPU
+Pvg Coet,IT,HU,OBC,Gender-Neutral,7810,96.9842461,1,SPPU
+Pvg Coet,IT,HU,SC,Gender-Neutral,19581,92.1445405,1,SPPU
+Pvg Coet,IT,HU,ST,Gender-Neutral,69826,68.8122862,1,SPPU
+Pvg Coet,IT,HU,NT1,Gender-Neutral,15599,93.8108199,1,SPPU
+Pvg Coet,IT,HU,NT2,Gender-Neutral,8157,96.8581856,1,SPPU
+Pvg Coet,IT,HU,NT3,Gender-Neutral,9216,96.3989373,1,SPPU
+Pvg Coet,IT,HU,VJ,Gender-Neutral,29837,87.6993762,1,SPPU
+Pvg Coet,Electrical,HU,OPEN,Gender-Neutral,48940,79.3939394,1,SPPU
+Pvg Coet,Electrical,HU,OBC,Gender-Neutral,68892,69.0354573,1,SPPU
+Pvg Coet,Electrical,HU,SC,Gender-Neutral,119784,31.6482893,1,SPPU
+Pvg Coet,Electrical,HU,ST,Gender-Neutral,125380,25.3087578,1,SPPU
+Pvg Coet,Electrical,HU,NT1,Gender-Neutral,38576,84.0516274,1,SPPU
+Pvg Coet,Electrical,HU,NT2,Gender-Neutral,55273,76.2843676,1,SPPU
+Pvg Coet,Electrical,HU,NT3,Gender-Neutral,71982,67.1534217,1,SPPU
+Pvg Coet,Electrical,HU,VJ,Gender-Neutral,93766,53.1660451,1,SPPU
+Pvg Coet,ENTC,HU,OPEN,Gender-Neutral,17713,92.9051391,1,SPPU
+Pvg Coet,ENTC,HU,OBC,Gender-Neutral,22434,90.9043132,1,SPPU
+Pvg Coet,ENTC,HU,SC,Gender-Neutral,60788,73.2701208,1,SPPU
+Pvg Coet,ENTC,HU,ST,Gender-Neutral,62534,72.394012,1,SPPU
+Pvg Coet,ENTC,HU,NT1,Gender-Neutral,25815,89.4673668,1,SPPU
+Pvg Coet,ENTC,HU,NT2,Gender-Neutral,22747,90.7704894,1,SPPU
+Pvg Coet,ENTC,HU,NT3,Gender-Neutral,23231,90.5963303,1,SPPU
+Pvg Coet,ENTC,HU,VJ,Gender-Neutral,59328,74.1356658,1,SPPU
+Pvg Coet,Mechanical,HU,OPEN,Gender-Neutral,33876,86.039254,1,SPPU
+Pvg Coet,Mechanical,HU,OBC,Gender-Neutral,61677,73.1851907,1,SPPU
+Pvg Coet,Mechanical,HU,SC,Gender-Neutral,132570,16.3662375,1,SPPU
+Pvg Coet,Mechanical,HU,ST,Gender-Neutral,92127,54.6296296,1,SPPU
+Pvg Coet,Mechanical,HU,NT1,Gender-Neutral,113082,37.7324111,1,SPPU
+Pvg Coet,Mechanical,HU,NT2,Gender-Neutral,35975,85.1782223,1,SPPU
+Pvg Coet,Mechanical,HU,NT3,Gender-Neutral,60309,73.4109953,1,SPPU
+Pvg Coet,Mechanical,HU,VJ,Gender-Neutral,54026,76.7693871,1,SPPU
+Pvg Coet,AIDS,HU,OPEN,Gender-Neutral,9426,96.3249371,1,SPPU
+Pvg Coet,AIDS,HU,OBC,Gender-Neutral,10886,95.7618529,1,SPPU
+Pvg Coet,AIDS,HU,SC,Gender-Neutral,24930,89.9583318,1,SPPU
+Pvg Coet,AIDS,HU,ST,Gender-Neutral,86555,58.1382561,1,SPPU
+Pvg Coet,AIDS,HU,NT1,Gender-Neutral,14905,94.0755378,1,SPPU
+Pvg Coet,AIDS,HU,NT2,Gender-Neutral,13171,94.8375696,1,SPPU
+Pvg Coet,AIDS,HU,NT3,Gender-Neutral,17591,93.0014674,1,SPPU
+Pvg Coet,AIDS,HU,VJ,Gender-Neutral,37397,84.4494892,1,SPPU
+AISSMS COE,Civil,HU,OPEN,Gender-Neutral,76914,64.2666767,1,SPPU
+AISSMS COE,Civil,HU,OBC,Gender-Neutral,122884,28.1052376,1,SPPU
+AISSMS COE,Civil,HU,SC,Gender-Neutral,116106,35.1726957,1,SPPU
+AISSMS COE,Civil,HU,ST,Gender-Neutral,115007,36.029881,1,SPPU
+AISSMS COE,Civil,HU,NT1,Gender-Neutral,116131,35.1726957,1,SPPU
+AISSMS COE,Civil,HU,NT2,Gender-Neutral,90734,55.4490884,1,SPPU
+AISSMS COE,Civil,HU,NT3,Gender-Neutral,93077,53.8156961,1,SPPU
+AISSMS COE,Civil,HU,VJ,Gender-Neutral,115258,36.029881,1,SPPU
+AISSMS COE,Robotics and Automation,HU,OPEN,Gender-Neutral,26994,88.9904805,1,SPPU
+AISSMS COE,Robotics and Automation,HU,OBC,Gender-Neutral,30014,87.6984872,1,SPPU
+AISSMS COE,Robotics and Automation,HU,SC,Gender-Neutral,64764,71.3590844,1,SPPU
+AISSMS COE,Robotics and Automation,HU,ST,Gender-Neutral,66582,70.2813361,1,SPPU
+AISSMS COE,Robotics and Automation,HU,NT1,Gender-Neutral,59316,74.1356658,1,SPPU
+AISSMS COE,Robotics and Automation,HU,NT2,Gender-Neutral,42923,82.1650299,1,SPPU
+AISSMS COE,Robotics and Automation,HU,NT3,Gender-Neutral,73144,66.6716379,1,SPPU
+AISSMS COE,Robotics and Automation,HU,VJ,Gender-Neutral,46882,80.0793682,1,SPPU
+AISSMS COE,CS,HU,OPEN,Gender-Neutral,8767,96.5951359,1,SPPU
+AISSMS COE,CS,HU,OBC,Gender-Neutral,9889,96.1447502,1,SPPU
+AISSMS COE,CS,HU,SC,Gender-Neutral,23571,90.4938272,1,SPPU
+AISSMS COE,CS,HU,ST,Gender-Neutral,61844,73.0265619,1,SPPU
+AISSMS COE,CS,HU,NT1,Gender-Neutral,16441,93.4566198,1,SPPU
+AISSMS COE,CS,HU,NT2,Gender-Neutral,15044,94.0399594,1,SPPU
+AISSMS COE,CS,HU,NT3,Gender-Neutral,12810,94.9618091,1,SPPU
+AISSMS COE,CS,HU,VJ,Gender-Neutral,26115,89.3951296,1,SPPU
+AISSMS COE,Electrical,HU,OPEN,Gender-Neutral,55061,76.2843676,1,SPPU
+AISSMS COE,Electrical,HU,OBC,Gender-Neutral,68467,69.3042857,1,SPPU
+AISSMS COE,Electrical,HU,SC,Gender-Neutral,102948,46.4499379,1,SPPU
+AISSMS COE,Electrical,HU,ST,Gender-Neutral,126725,23.8907594,1,SPPU
+AISSMS COE,Electrical,HU,NT1,Gender-Neutral,124410,26.0539861,1,SPPU
+AISSMS COE,Electrical,HU,NT2,Gender-Neutral,56519,75.340282,1,SPPU
+AISSMS COE,Electrical,HU,NT3,Gender-Neutral,60794,73.2701208,1,SPPU
+AISSMS COE,Electrical,HU,VJ,Gender-Neutral,82315,61.2935921,1,SPPU
+AISSMS COE,ENTC,HU,OPEN,Gender-Neutral,18650,92.4956109,1,SPPU
+AISSMS COE,ENTC,HU,OBC,Gender-Neutral,21904,91.1342735,1,SPPU
+AISSMS COE,ENTC,HU,SC,Gender-Neutral,46318,80.4126032,1,SPPU
+AISSMS COE,ENTC,HU,ST,Gender-Neutral,39605,83.4053417,1,SPPU
+AISSMS COE,ENTC,HU,NT1,Gender-Neutral,30084,87.6216398,1,SPPU
+AISSMS COE,ENTC,HU,NT2,Gender-Neutral,21900,91.1342735,1,SPPU
+AISSMS COE,ENTC,HU,NT3,Gender-Neutral,28461,88.2803409,1,SPPU
+AISSMS COE,ENTC,HU,VJ,Gender-Neutral,55824,75.8958975,1,SPPU
+AISSMS COE,Electronics Engineering ( VLSI Design and Technology),HU,OPEN,Gender-Neutral,39029,83.6387222,1,SPPU
+AISSMS COE,Electronics Engineering ( VLSI Design and Technology),HU,OBC,Gender-Neutral,50176,78.4161664,1,SPPU
+AISSMS COE,Electronics Engineering ( VLSI Design and Technology),HU,SC,Gender-Neutral,128592,21.5370732,1,SPPU
+AISSMS COE,Electronics Engineering ( VLSI Design and Technology),HU,ST,Gender-Neutral,112661,38.8357386,1,SPPU
+AISSMS COE,Electronics Engineering ( VLSI Design and Technology),HU,NT1,Gender-Neutral,120967,29.9996237,1,SPPU
+AISSMS COE,Electronics Engineering ( VLSI Design and Technology),HU,NT2,Gender-Neutral,67425,69.6924231,1,SPPU
+AISSMS COE,Electronics Engineering ( VLSI Design and Technology),HU,NT3,Gender-Neutral,127717,22.6551453,1,SPPU
+AISSMS COE,Electronics Engineering ( VLSI Design and Technology),HU,VJ,Gender-Neutral,48533,79.520817,1,SPPU
+AISSMS COE,Chemical,HU,OPEN,Gender-Neutral,76444,64.4805659,1,SPPU
+AISSMS COE,Chemical,HU,OBC,Gender-Neutral,120528,30.5890703,1,SPPU
+AISSMS COE,Chemical,HU,SC,Gender-Neutral,76677,64.4512569,1,SPPU
+AISSMS COE,Chemical,HU,ST,Gender-Neutral,95928,52.2415622,1,SPPU
+AISSMS COE,Chemical,HU,NT1,Gender-Neutral,116346,35.1345873,1,SPPU
+AISSMS COE,Chemical,HU,NT2,Gender-Neutral,77124,64.2666767,1,SPPU
+AISSMS COE,Chemical,HU,NT3,Gender-Neutral,112326,38.9045575,1,SPPU
+AISSMS COE,Chemical,HU,VJ,Gender-Neutral,121241,29.4111028,1,SPPU
+AISSMS COE,Mechanical,HU,OPEN,Gender-Neutral,43402,81.855593,1,SPPU
+AISSMS COE,Mechanical,HU,OBC,Gender-Neutral,66040,70.6180504,1,SPPU
+AISSMS COE,Mechanical,HU,SC,Gender-Neutral,127837,22.6551453,1,SPPU
+AISSMS COE,Mechanical,HU,ST,Gender-Neutral,103905,45.9472716,1,SPPU
+AISSMS COE,Mechanical,HU,NT1,Gender-Neutral,66078,70.6180504,1,SPPU
+AISSMS COE,Mechanical,HU,NT2,Gender-Neutral,77875,63.973064,1,SPPU
+AISSMS COE,Mechanical,HU,NT3,Gender-Neutral,77273,64.0952985,1,SPPU
+AISSMS COE,Mechanical,HU,VJ,Gender-Neutral,99971,49.0455617,1,SPPU
+AISSMS IOIT,CS,HU,OPEN,Gender-Neutral,9605,96.2758209,1,SPPU
+AISSMS IOIT,CS,HU,OBC,Gender-Neutral,10445,95.9255039,1,SPPU
+AISSMS IOIT,CS,HU,SC,Gender-Neutral,22275,90.9958615,1,SPPU
+AISSMS IOIT,CS,HU,ST,Gender-Neutral,44004,81.2345291,1,SPPU
+AISSMS IOIT,CS,HU,NT1,Gender-Neutral,14550,94.2498036,1,SPPU
+AISSMS IOIT,CS,HU,NT2,Gender-Neutral,11016,95.6910814,1,SPPU
+AISSMS IOIT,CS,HU,NT3,Gender-Neutral,17280,93.1024197,1,SPPU
+AISSMS IOIT,CS,HU,VJ,Gender-Neutral,17779,92.8619655,1,SPPU
+AISSMS IOIT,IT,HU,OPEN,Gender-Neutral,10825,95.7719768,1,SPPU
+AISSMS IOIT,IT,HU,OBC,Gender-Neutral,11233,95.6228329,1,SPPU
+AISSMS IOIT,IT,HU,SC,Gender-Neutral,23611,90.4575998,1,SPPU
+AISSMS IOIT,IT,HU,ST,Gender-Neutral,65060,71.2687819,1,SPPU
+AISSMS IOIT,IT,HU,NT1,Gender-Neutral,15821,93.708846,1,SPPU
+AISSMS IOIT,IT,HU,NT2,Gender-Neutral,13660,94.616159,1,SPPU
+AISSMS IOIT,IT,HU,NT3,Gender-Neutral,12170,95.2286363,1,SPPU
+AISSMS IOIT,IT,HU,VJ,Gender-Neutral,25494,89.690179,1,SPPU
+AISSMS IOIT,Electrical,HU,OPEN,Gender-Neutral,46469,80.2375547,1,SPPU
+AISSMS IOIT,Electrical,HU,OBC,Gender-Neutral,60486,73.4109953,1,SPPU
+AISSMS IOIT,Electrical,HU,SC,Gender-Neutral,72401,66.9527897,1,SPPU
+AISSMS IOIT,Electrical,HU,ST,Gender-Neutral,85066,58.8704519,1,SPPU
+AISSMS IOIT,Electrical,HU,NT1,Gender-Neutral,59952,73.4246062,1,SPPU
+AISSMS IOIT,Electrical,HU,NT2,Gender-Neutral,53416,76.8406961,1,SPPU
+AISSMS IOIT,Electrical,HU,NT3,Gender-Neutral,72597,66.9527897,1,SPPU
+AISSMS IOIT,Electrical,HU,VJ,Gender-Neutral,96545,51.0567213,1,SPPU
+AISSMS IOIT,ENTC,HU,OPEN,Gender-Neutral,21068,91.4590348,1,SPPU
+AISSMS IOIT,ENTC,HU,OBC,Gender-Neutral,23319,90.5702023,1,SPPU
+AISSMS IOIT,ENTC,HU,SC,Gender-Neutral,36379,84.9532361,1,SPPU
+AISSMS IOIT,ENTC,HU,ST,Gender-Neutral,51840,78.0359147,1,SPPU
+AISSMS IOIT,ENTC,HU,NT1,Gender-Neutral,26572,89.1792071,1,SPPU
+AISSMS IOIT,ENTC,HU,NT2,Gender-Neutral,22240,91.0138421,1,SPPU
+AISSMS IOIT,ENTC,HU,NT3,Gender-Neutral,25763,89.4673668,1,SPPU
+AISSMS IOIT,ENTC,HU,VJ,Gender-Neutral,40596,83.2373857,1,SPPU
+AISSMS IOIT,AIDS,HU,OPEN,Gender-Neutral,13010,94.8759338,1,SPPU
+AISSMS IOIT,AIDS,HU,OBC,Gender-Neutral,13815,94.5800123,1,SPPU
+AISSMS IOIT,AIDS,HU,SC,Gender-Neutral,25246,89.7218504,1,SPPU
+AISSMS IOIT,AIDS,HU,ST,Gender-Neutral,102934,46.4499379,1,SPPU
+AISSMS IOIT,AIDS,HU,NT1,Gender-Neutral,16387,93.495874,1,SPPU
+AISSMS IOIT,AIDS,HU,NT2,Gender-Neutral,15154,93.9947487,1,SPPU
+AISSMS IOIT,AIDS,HU,NT3,Gender-Neutral,15724,93.7527889,1,SPPU
+AISSMS IOIT,AIDS,HU,VJ,Gender-Neutral,20569,91.7186508,1,SPPU
+MIT Alandi,Civil,HU,OPEN,Gender-Neutral,51835,78.0359147,1,SPPU
+MIT Alandi,Civil,HU,OBC,Gender-Neutral,68228,69.3042857,1,SPPU
+MIT Alandi,Civil,HU,SC,Gender-Neutral,76288,64.4805659,1,SPPU
+MIT Alandi,Civil,HU,ST,Gender-Neutral,109608,40.6521983,1,SPPU
+MIT Alandi,Civil,HU,NT1,Gender-Neutral,63575,71.8303504,1,SPPU
+MIT Alandi,Civil,HU,NT2,Gender-Neutral,91610,55.2709127,1,SPPU
+MIT Alandi,Civil,HU,NT3,Gender-Neutral,116705,34.1365462,1,SPPU
+MIT Alandi,Civil,HU,VJ,Gender-Neutral,87349,58.0840122,1,SPPU
+MIT Alandi,CS,HU,OPEN,Gender-Neutral,10704,95.8529269,1,SPPU
+MIT Alandi,CS,HU,OBC,Gender-Neutral,11742,95.3905345,1,SPPU
+MIT Alandi,CS,HU,SC,Gender-Neutral,20025,91.889263,1,SPPU
+MIT Alandi,CS,HU,ST,Gender-Neutral,59707,73.642653,1,SPPU
+MIT Alandi,CS,HU,NT1,Gender-Neutral,16172,93.5395473,1,SPPU
+MIT Alandi,CS,HU,NT2,Gender-Neutral,12683,95.0617284,1,SPPU
+MIT Alandi,CS,HU,NT3,Gender-Neutral,12460,95.1011675,1,SPPU
+MIT Alandi,CS,HU,VJ,Gender-Neutral,15817,93.708846,1,SPPU
+MIT Alandi,ENTC,HU,OPEN,Gender-Neutral,22867,90.6949618,1,SPPU
+MIT Alandi,ENTC,HU,OBC,Gender-Neutral,25457,89.690179,1,SPPU
+MIT Alandi,ENTC,HU,SC,Gender-Neutral,37042,84.5084815,1,SPPU
+MIT Alandi,ENTC,HU,ST,Gender-Neutral,129758,20.3198986,1,SPPU
+MIT Alandi,ENTC,HU,NT1,Gender-Neutral,27886,88.6173431,1,SPPU
+MIT Alandi,ENTC,HU,NT2,Gender-Neutral,23801,90.2917336,1,SPPU
+MIT Alandi,ENTC,HU,NT3,Gender-Neutral,23588,90.4575998,1,SPPU
+MIT Alandi,ENTC,HU,VJ,Gender-Neutral,39370,83.4300164,1,SPPU
+MIT Alandi,Electronics,HU,OPEN,Gender-Neutral,33246,86.2561357,1,SPPU
+MIT Alandi,Electronics,HU,OBC,Gender-Neutral,41352,82.4643661,1,SPPU
+MIT Alandi,Electronics,HU,SC,Gender-Neutral,45226,81.0090469,1,SPPU
+MIT Alandi,Electronics,HU,ST,Gender-Neutral,119865,30.9520229,1,SPPU
+MIT Alandi,Electronics,HU,NT1,Gender-Neutral,61915,73.0265619,1,SPPU
+MIT Alandi,Electronics,HU,NT2,Gender-Neutral,45460,80.9858625,1,SPPU
+MIT Alandi,Electronics,HU,NT3,Gender-Neutral,39588,83.4053417,1,SPPU
+MIT Alandi,Electronics,HU,VJ,Gender-Neutral,67846,69.597699,1,SPPU
+MIT Alandi,Chemical,HU,OPEN,Gender-Neutral,45841,80.7328826,1,SPPU
+MIT Alandi,Chemical,HU,OBC,Gender-Neutral,52081,77.9969992,1,SPPU
+MIT Alandi,Chemical,HU,SC,Gender-Neutral,69120,69.0354573,1,SPPU
+MIT Alandi,Chemical,HU,ST,Gender-Neutral,119029,32.3095051,1,SPPU
+MIT Alandi,Chemical,HU,NT1,Gender-Neutral,77605,64.0952985,1,SPPU
+MIT Alandi,Chemical,HU,NT2,Gender-Neutral,49873,78.5775598,1,SPPU
+MIT Alandi,Chemical,HU,NT3,Gender-Neutral,87597,58.0840122,1,SPPU
+MIT Alandi,Chemical,HU,VJ,Gender-Neutral,55275,76.2843676,1,SPPU
+MIT Alandi,Mechanical,HU,OPEN,Gender-Neutral,50251,78.4161664,1,SPPU
+MIT Alandi,Mechanical,HU,OBC,Gender-Neutral,61242,73.2522683,1,SPPU
+MIT Alandi,Mechanical,HU,SC,Gender-Neutral,63218,71.9809302,1,SPPU
+MIT Alandi,Mechanical,HU,ST,Gender-Neutral,116471,34.1818319,1,SPPU
+MIT Alandi,Mechanical,HU,NT1,Gender-Neutral,63229,71.9809302,1,SPPU
+MIT Alandi,Mechanical,HU,NT2,Gender-Neutral,63319,71.8303504,1,SPPU
+MIT Alandi,Mechanical,HU,NT3,Gender-Neutral,72998,66.8171727,1,SPPU
+MIT Alandi,Mechanical,HU,VJ,Gender-Neutral,70844,67.9544349,1,SPPU
+MIT Alandi,Computer Engineering (Software Engineering),HU,OPEN,Gender-Neutral,11790,95.3905345,1,SPPU
+MIT Alandi,Computer Engineering (Software Engineering),HU,OBC,Gender-Neutral,12435,95.1253222,1,SPPU
+MIT Alandi,Computer Engineering (Software Engineering),HU,SC,Gender-Neutral,21949,91.1342735,1,SPPU
+MIT Alandi,Computer Engineering (Software Engineering),HU,ST,Gender-Neutral,70512,68.3823818,1,SPPU
+MIT Alandi,Computer Engineering (Software Engineering),HU,NT1,Gender-Neutral,30903,87.2543136,1,SPPU
+MIT Alandi,Computer Engineering (Software Engineering),HU,NT2,Gender-Neutral,16442,93.4566198,1,SPPU
+MIT Alandi,Computer Engineering (Software Engineering),HU,NT3,Gender-Neutral,16866,93.2464234,1,SPPU
+MIT Alandi,Computer Engineering (Software Engineering),HU,VJ,Gender-Neutral,20490,91.7414317,1,SPPU
+Dy Patil Akurdi,CS,HU,OPEN,Gender-Neutral,6936,97.3366305,1,SPPU
+Dy Patil Akurdi,CS,HU,OBC,Gender-Neutral,7795,97.0060773,1,SPPU
+Dy Patil Akurdi,CS,HU,SC,Gender-Neutral,19742,92.1155289,1,SPPU
+Dy Patil Akurdi,CS,HU,ST,Gender-Neutral,58649,74.4658288,1,SPPU
+Dy Patil Akurdi,CS,HU,NT1,Gender-Neutral,9571,96.2787373,1,SPPU
+Dy Patil Akurdi,CS,HU,NT2,Gender-Neutral,7329,97.1775847,1,SPPU
+Dy Patil Akurdi,CS,HU,NT3,Gender-Neutral,18252,92.6748971,1,SPPU
+Dy Patil Akurdi,CS,HU,VJ,Gender-Neutral,18220,92.6748971,1,SPPU
+Dy Patil Akurdi,Civil,HU,OPEN,Gender-Neutral,90482,55.7163295,1,SPPU
+Dy Patil Akurdi,Civil,HU,OBC,Gender-Neutral,124191,26.2033481,1,SPPU
+Dy Patil Akurdi,Civil,HU,SC,Gender-Neutral,111848,39.0377062,1,SPPU
+Dy Patil Akurdi,Civil,HU,ST,Gender-Neutral,140424,5.0725526,1,SPPU
+Dy Patil Akurdi,Civil,HU,NT1,Gender-Neutral,107882,42.5530244,1,SPPU
+Dy Patil Akurdi,Civil,HU,NT2,Gender-Neutral,113410,37.6936381,1,SPPU
+Dy Patil Akurdi,Civil,HU,NT3,Gender-Neutral,100298,48.9725355,1,SPPU
+Dy Patil Akurdi,Civil,HU,VJ,Gender-Neutral,139414,6.6691673,1,SPPU
+Dy Patil Akurdi,Robotics and Automation,HU,OPEN,Gender-Neutral,33577,86.1075077,1,SPPU
+Dy Patil Akurdi,Robotics and Automation,HU,OBC,Gender-Neutral,43408,81.855593,1,SPPU
+Dy Patil Akurdi,Robotics and Automation,HU,SC,Gender-Neutral,87478,58.0840122,1,SPPU
+Dy Patil Akurdi,Robotics and Automation,HU,ST,Gender-Neutral,90958,55.2985075,1,SPPU
+Dy Patil Akurdi,Robotics and Automation,HU,NT1,Gender-Neutral,47889,79.7807688,1,SPPU
+Dy Patil Akurdi,Robotics and Automation,HU,NT2,Gender-Neutral,44476,81.1192722,1,SPPU
+Dy Patil Akurdi,Robotics and Automation,HU,NT3,Gender-Neutral,41072,82.869523,1,SPPU
+Dy Patil Akurdi,Robotics and Automation,HU,VJ,Gender-Neutral,119237,32.3095051,1,SPPU
+Dy Patil Akurdi,IT,HU,OPEN,Gender-Neutral,10026,96.0680883,1,SPPU
+Dy Patil Akurdi,IT,HU,OBC,Gender-Neutral,12074,95.2749719,1,SPPU
+Dy Patil Akurdi,IT,HU,SC,Gender-Neutral,27578,88.7549097,1,SPPU
+Dy Patil Akurdi,IT,HU,ST,Gender-Neutral,90020,55.8997381,1,SPPU
+Dy Patil Akurdi,IT,HU,NT1,Gender-Neutral,15914,93.641901,1,SPPU
+Dy Patil Akurdi,IT,HU,NT2,Gender-Neutral,14552,94.2498036,1,SPPU
+Dy Patil Akurdi,IT,HU,NT3,Gender-Neutral,11888,95.3636399,1,SPPU
+Dy Patil Akurdi,IT,HU,VJ,Gender-Neutral,21322,91.3483231,1,SPPU
+Dy Patil Akurdi,ENTC,HU,OPEN,Gender-Neutral,20998,91.4895289,1,SPPU
+Dy Patil Akurdi,ENTC,HU,OBC,Gender-Neutral,24036,90.1978271,1,SPPU
+Dy Patil Akurdi,ENTC,HU,SC,Gender-Neutral,55287,76.2843676,1,SPPU
+Dy Patil Akurdi,ENTC,HU,ST,Gender-Neutral,128170,21.9114832,1,SPPU
+Dy Patil Akurdi,ENTC,HU,NT1,Gender-Neutral,42024,82.3107244,1,SPPU
+Dy Patil Akurdi,ENTC,HU,NT2,Gender-Neutral,25039,89.8061335,1,SPPU
+Dy Patil Akurdi,ENTC,HU,NT3,Gender-Neutral,37635,84.3950599,1,SPPU
+Dy Patil Akurdi,ENTC,HU,VJ,Gender-Neutral,48243,79.5863208,1,SPPU
+Dy Patil Akurdi,Instrumentation Engineering,HU,OPEN,Gender-Neutral,84716,59.6839864,1,SPPU
+Dy Patil Akurdi,Instrumentation Engineering,HU,OBC,Gender-Neutral,90831,55.4490884,1,SPPU
+Dy Patil Akurdi,Instrumentation Engineering,HU,SC,Gender-Neutral,70729,67.9544349,1,SPPU
+Dy Patil Akurdi,Instrumentation Engineering,HU,ST,Gender-Neutral,68322,69.3042857,1,SPPU
+Dy Patil Akurdi,Instrumentation Engineering,HU,NT1,Gender-Neutral,98119,49.6513702,1,SPPU
+Dy Patil Akurdi,Instrumentation Engineering,HU,NT2,Gender-Neutral,116175,35.1345873,1,SPPU
+Dy Patil Akurdi,Instrumentation Engineering,HU,NT3,Gender-Neutral,100395,48.9725355,1,SPPU
+Dy Patil Akurdi,Instrumentation Engineering,HU,VJ,Gender-Neutral,119930,30.9520229,1,SPPU
+Dy Patil Akurdi,Mechanical,HU,OPEN,Gender-Neutral,44526,81.1192722,1,SPPU
+Dy Patil Akurdi,Mechanical,HU,OBC,Gender-Neutral,57333,75.1476841,1,SPPU
+Dy Patil Akurdi,Mechanical,HU,SC,Gender-Neutral,78565,63.6508999,1,SPPU
+Dy Patil Akurdi,Mechanical,HU,ST,Gender-Neutral,106921,43.1162283,1,SPPU
+Dy Patil Akurdi,Mechanical,HU,NT1,Gender-Neutral,76831,64.4512569,1,SPPU
+Dy Patil Akurdi,Mechanical,HU,NT2,Gender-Neutral,57687,75.1338688,1,SPPU
+Dy Patil Akurdi,Mechanical,HU,NT3,Gender-Neutral,56214,75.3496766,1,SPPU
+Dy Patil Akurdi,Mechanical,HU,VJ,Gender-Neutral,69926,68.401414,1,SPPU
+Dy Patil Akurdi,AIDS,HU,OPEN,Gender-Neutral,13114,94.8416105,1,SPPU
+Dy Patil Akurdi,AIDS,HU,OBC,Gender-Neutral,14590,94.2244022,1,SPPU
+Dy Patil Akurdi,AIDS,HU,SC,Gender-Neutral,38187,84.2081516,1,SPPU
+Dy Patil Akurdi,AIDS,HU,ST,Gender-Neutral,109963,39.9699925,1,SPPU
+Dy Patil Akurdi,AIDS,HU,NT1,Gender-Neutral,26750,89.0822549,1,SPPU
+Dy Patil Akurdi,AIDS,HU,NT2,Gender-Neutral,16015,93.6017282,1,SPPU
+Dy Patil Akurdi,AIDS,HU,NT3,Gender-Neutral,14344,94.3626357,1,SPPU
+Dy Patil Akurdi,AIDS,HU,VJ,Gender-Neutral,38765,83.878077,1,SPPU
+DY PATIL Pimpri,Civil,HU,OPEN,Gender-Neutral,120026,30.9520229,1,SPPU
+DY PATIL Pimpri,Civil,HU,OBC,Gender-Neutral,140334,5.2332748,1,SPPU
+DY PATIL Pimpri,Civil,HU,SC,Gender-Neutral,143011,0.5107854,1,SPPU
+DY PATIL Pimpri,Civil,HU,ST,Gender-Neutral,114055,36.5842646,1,SPPU
+DY PATIL Pimpri,Civil,HU,NT1,Gender-Neutral,80516,61.6881259,1,SPPU
+DY PATIL Pimpri,Civil,HU,NT2,Gender-Neutral,137784,9.283282,1,SPPU
+DY PATIL Pimpri,Civil,HU,NT3,Gender-Neutral,85244,58.8704519,1,SPPU
+DY PATIL Pimpri,Civil,HU,VJ,Gender-Neutral,80717,61.6881259,1,SPPU
+DY PATIL Pimpri,CS,HU,OPEN,Gender-Neutral,12234,95.2175544,1,SPPU
+DY PATIL Pimpri,CS,HU,OBC,Gender-Neutral,12938,94.8869552,1,SPPU
+DY PATIL Pimpri,CS,HU,SC,Gender-Neutral,32089,86.8453057,1,SPPU
+DY PATIL Pimpri,CS,HU,ST,Gender-Neutral,95689,52.2466614,1,SPPU
+DY PATIL Pimpri,CS,HU,NT1,Gender-Neutral,23096,90.6251228,1,SPPU
+DY PATIL Pimpri,CS,HU,NT2,Gender-Neutral,14503,94.2498036,1,SPPU
+DY PATIL Pimpri,CS,HU,NT3,Gender-Neutral,12839,94.9011991,1,SPPU
+DY PATIL Pimpri,CS,HU,VJ,Gender-Neutral,19893,92.0788066,1,SPPU
+DY PATIL Pimpri,IT,HU,OPEN,Gender-Neutral,12975,94.8764292,1,SPPU
+DY PATIL Pimpri,IT,HU,OBC,Gender-Neutral,13933,94.520817,1,SPPU
+DY PATIL Pimpri,IT,HU,SC,Gender-Neutral,32840,86.3770498,1,SPPU
+DY PATIL Pimpri,IT,HU,ST,Gender-Neutral,74983,65.4207881,1,SPPU
+DY PATIL Pimpri,IT,HU,NT1,Gender-Neutral,26126,89.3951296,1,SPPU
+DY PATIL Pimpri,IT,HU,NT2,Gender-Neutral,11924,95.330155,1,SPPU
+DY PATIL Pimpri,IT,HU,NT3,Gender-Neutral,13474,94.6808113,1,SPPU
+DY PATIL Pimpri,IT,HU,VJ,Gender-Neutral,28295,88.2852988,1,SPPU
+DY PATIL Pimpri,Electrical,HU,OPEN,Gender-Neutral,57499,75.1476841,1,SPPU
+DY PATIL Pimpri,Electrical,HU,OBC,Gender-Neutral,68060,69.597699,1,SPPU
+DY PATIL Pimpri,Electrical,HU,SC,Gender-Neutral,95255,52.5521047,1,SPPU
+DY PATIL Pimpri,Electrical,HU,ST,Gender-Neutral,107652,42.5955447,1,SPPU
+DY PATIL Pimpri,Electrical,HU,NT1,Gender-Neutral,118392,32.6609746,1,SPPU
+DY PATIL Pimpri,Electrical,HU,NT2,Gender-Neutral,65135,71.2687819,1,SPPU
+DY PATIL Pimpri,Electrical,HU,NT3,Gender-Neutral,87533,58.0840122,1,SPPU
+DY PATIL Pimpri,Electrical,HU,VJ,Gender-Neutral,91549,55.2709127,1,SPPU
+DY PATIL Pimpri,ENTC,HU,OPEN,Gender-Neutral,26189,89.3951296,1,SPPU
+DY PATIL Pimpri,ENTC,HU,OBC,Gender-Neutral,28971,88.0989788,1,SPPU
+DY PATIL Pimpri,ENTC,HU,SC,Gender-Neutral,68441,69.3042857,1,SPPU
+DY PATIL Pimpri,ENTC,HU,ST,Gender-Neutral,74237,66.0524144,1,SPPU
+DY PATIL Pimpri,ENTC,HU,NT1,Gender-Neutral,42811,82.1650299,1,SPPU
+DY PATIL Pimpri,ENTC,HU,NT2,Gender-Neutral,29617,87.9332333,1,SPPU
+DY PATIL Pimpri,ENTC,HU,NT3,Gender-Neutral,38333,84.2006246,1,SPPU
+DY PATIL Pimpri,ENTC,HU,VJ,Gender-Neutral,62233,72.6119403,1,SPPU
+DY PATIL Pimpri,Mechanical,HU,OPEN,Gender-Neutral,67830,69.6572694,1,SPPU
+DY PATIL Pimpri,Mechanical,HU,OBC,Gender-Neutral,75716,65.107535,1,SPPU
+DY PATIL Pimpri,Mechanical,HU,SC,Gender-Neutral,130821,18.8110994,1,SPPU
+DY PATIL Pimpri,Mechanical,HU,ST,Gender-Neutral,129114,20.9352787,1,SPPU
+DY PATIL Pimpri,Mechanical,HU,NT1,Gender-Neutral,90193,55.8997381,1,SPPU
+DY PATIL Pimpri,Mechanical,HU,NT2,Gender-Neutral,75880,65.0367935,1,SPPU
+DY PATIL Pimpri,Mechanical,HU,NT3,Gender-Neutral,88859,56.7366842,1,SPPU
+DY PATIL Pimpri,Mechanical,HU,VJ,Gender-Neutral,106546,43.224841,1,SPPU
+DY PATIL Pimpri,Automation and Robotics,HU,OPEN,Gender-Neutral,38772,83.878077,1,SPPU
+DY PATIL Pimpri,Automation and Robotics,HU,OBC,Gender-Neutral,53859,76.839044,1,SPPU
+DY PATIL Pimpri,Automation and Robotics,HU,SC,Gender-Neutral,85900,58.7124464,1,SPPU
+DY PATIL Pimpri,Automation and Robotics,HU,ST,Gender-Neutral,87030,58.1195238,1,SPPU
+DY PATIL Pimpri,Automation and Robotics,HU,NT1,Gender-Neutral,48649,79.4628516,1,SPPU
+DY PATIL Pimpri,Automation and Robotics,HU,NT2,Gender-Neutral,54572,76.6367377,1,SPPU
+DY PATIL Pimpri,Automation and Robotics,HU,NT3,Gender-Neutral,99740,49.2213366,1,SPPU
+DY PATIL Pimpri,Automation and Robotics,HU,VJ,Gender-Neutral,56685,75.340282,1,SPPU
+DYPIEMR Akurdi,Civil,HU,OPEN,Gender-Neutral,101914,47.3478734,1,SPPU
+DYPIEMR Akurdi,Civil,HU,OBC,Gender-Neutral,130151,19.9324831,1,SPPU
+DYPIEMR Akurdi,Civil,HU,SC,Gender-Neutral,137630,9.4916141,1,SPPU
+DYPIEMR Akurdi,Civil,HU,ST,Gender-Neutral,136739,11.119036,1,SPPU
+DYPIEMR Akurdi,Civil,HU,NT1,Gender-Neutral,111258,39.4392454,1,SPPU
+DYPIEMR Akurdi,Civil,HU,NT2,Gender-Neutral,111982,38.992574,1,SPPU
+DYPIEMR Akurdi,Civil,HU,NT3,Gender-Neutral,118686,32.3660798,1,SPPU
+DYPIEMR Akurdi,Civil,HU,VJ,Gender-Neutral,127060,23.2280676,1,SPPU
+DYPIEMR Akurdi,CS,HU,OPEN,Gender-Neutral,13014,94.8759338,1,SPPU
+DYPIEMR Akurdi,CS,HU,OBC,Gender-Neutral,14227,94.3894513,1,SPPU
+DYPIEMR Akurdi,CS,HU,SC,Gender-Neutral,30177,87.6216398,1,SPPU
+DYPIEMR Akurdi,CS,HU,ST,Gender-Neutral,98137,49.6513702,1,SPPU
+DYPIEMR Akurdi,CS,HU,NT1,Gender-Neutral,15544,93.8260094,1,SPPU
+DYPIEMR Akurdi,CS,HU,NT2,Gender-Neutral,14006,94.4089337,1,SPPU
+DYPIEMR Akurdi,CS,HU,NT3,Gender-Neutral,16420,93.4566198,1,SPPU
+DYPIEMR Akurdi,CS,HU,VJ,Gender-Neutral,21084,91.4590348,1,SPPU
+DYPIEMR Akurdi,ENTC,HU,OPEN,Gender-Neutral,23503,90.4938272,1,SPPU
+DYPIEMR Akurdi,ENTC,HU,OBC,Gender-Neutral,25540,89.5398277,1,SPPU
+DYPIEMR Akurdi,ENTC,HU,SC,Gender-Neutral,60857,73.2701208,1,SPPU
+DYPIEMR Akurdi,ENTC,HU,ST,Gender-Neutral,109615,40.6521983,1,SPPU
+DYPIEMR Akurdi,ENTC,HU,NT1,Gender-Neutral,27304,88.8028432,1,SPPU
+DYPIEMR Akurdi,ENTC,HU,NT2,Gender-Neutral,30172,87.6216398,1,SPPU
+DYPIEMR Akurdi,ENTC,HU,NT3,Gender-Neutral,25898,89.4065093,1,SPPU
+DYPIEMR Akurdi,ENTC,HU,VJ,Gender-Neutral,61427,73.1851907,1,SPPU
+DYPIEMR Akurdi,Chemical,HU,OPEN,Gender-Neutral,78970,63.3857031,1,SPPU
+DYPIEMR Akurdi,Chemical,HU,OBC,Gender-Neutral,99810,49.2213366,1,SPPU
+DYPIEMR Akurdi,Chemical,HU,SC,Gender-Neutral,116515,34.1818319,1,SPPU
+DYPIEMR Akurdi,Chemical,HU,ST,Gender-Neutral,58895,74.1935484,1,SPPU
+DYPIEMR Akurdi,Chemical,HU,NT1,Gender-Neutral,143096,0.3188297,1,SPPU
+DYPIEMR Akurdi,Chemical,HU,NT2,Gender-Neutral,101644,47.3478734,1,SPPU
+DYPIEMR Akurdi,Chemical,HU,NT3,Gender-Neutral,91661,54.6979992,1,SPPU
+DYPIEMR Akurdi,Chemical,HU,VJ,Gender-Neutral,104914,44.6898706,1,SPPU
+DYPIEMR Akurdi,Mechanical,HU,OPEN,Gender-Neutral,72644,66.9527897,1,SPPU
+DYPIEMR Akurdi,Mechanical,HU,OBC,Gender-Neutral,81025,61.6397637,1,SPPU
+DYPIEMR Akurdi,Mechanical,HU,SC,Gender-Neutral,122571,28.3793174,1,SPPU
+DYPIEMR Akurdi,Mechanical,HU,ST,Gender-Neutral,123318,27.3241113,1,SPPU
+DYPIEMR Akurdi,Mechanical,HU,NT1,Gender-Neutral,97865,50.2663166,1,SPPU
+DYPIEMR Akurdi,Mechanical,HU,NT2,Gender-Neutral,82250,61.2935921,1,SPPU
+DYPIEMR Akurdi,Mechanical,HU,NT3,Gender-Neutral,83188,60.750409,1,SPPU
+DYPIEMR Akurdi,Mechanical,HU,VJ,Gender-Neutral,106218,43.5071268,1,SPPU
+DYPIEMR Akurdi,AIDS,HU,OPEN,Gender-Neutral,17104,93.1853888,1,SPPU
+DYPIEMR Akurdi,AIDS,HU,OBC,Gender-Neutral,19475,92.158114,1,SPPU
+DYPIEMR Akurdi,AIDS,HU,SC,Gender-Neutral,43718,81.5104589,1,SPPU
+DYPIEMR Akurdi,AIDS,HU,ST,Gender-Neutral,123299,27.3241113,1,SPPU
+DYPIEMR Akurdi,AIDS,HU,NT1,Gender-Neutral,40674,83.1704016,1,SPPU
+DYPIEMR Akurdi,AIDS,HU,NT2,Gender-Neutral,18294,92.6711629,1,SPPU
+DYPIEMR Akurdi,AIDS,HU,NT3,Gender-Neutral,26059,89.3970979,1,SPPU
+DYPIEMR Akurdi,AIDS,HU,VJ,Gender-Neutral,54590,76.6367377,1,SPPU
+Bharati Vidyapeeth Women,CS,HU,OPEN,Gender-Neutral,16907,93.2464234,1,SPPU
+Bharati Vidyapeeth Women,CS,HU,OBC,Gender-Neutral,18357,92.6604063,1,SPPU
+Bharati Vidyapeeth Women,CS,HU,SC,Gender-Neutral,40771,83.1704016,1,SPPU
+Bharati Vidyapeeth Women,CS,HU,ST,Gender-Neutral,137263,10.581304,1,SPPU
+Bharati Vidyapeeth Women,CS,HU,NT1,Gender-Neutral,27486,88.7938441,1,SPPU
+Bharati Vidyapeeth Women,CS,HU,NT2,Gender-Neutral,24218,90.1789743,1,SPPU
+Bharati Vidyapeeth Women,CS,HU,NT3,Gender-Neutral,30857,87.2543136,1,SPPU
+Bharati Vidyapeeth Women,CS,HU,VJ,Gender-Neutral,39410,83.4300164,1,SPPU
+Bharati Vidyapeeth Women,IT,HU,OPEN,Gender-Neutral,20285,91.765679,1,SPPU
+Bharati Vidyapeeth Women,IT,HU,OBC,Gender-Neutral,22433,90.9043132,1,SPPU
+Bharati Vidyapeeth Women,IT,HU,SC,Gender-Neutral,48519,79.520817,1,SPPU
+Bharati Vidyapeeth Women,IT,HU,ST,Gender-Neutral,36810,84.5158411,1,SPPU
+Bharati Vidyapeeth Women,IT,HU,NT1,Gender-Neutral,55412,76.0463981,1,SPPU
+Bharati Vidyapeeth Women,IT,HU,NT2,Gender-Neutral,20226,91.7707151,1,SPPU
+Bharati Vidyapeeth Women,IT,HU,NT3,Gender-Neutral,20226,91.7707151,1,SPPU
+Bharati Vidyapeeth Women,IT,HU,VJ,Gender-Neutral,53245,76.9213416,1,SPPU
+Bharati Vidyapeeth Women,ENTC,HU,OPEN,Gender-Neutral,43427,81.8534982,1,SPPU
+Bharati Vidyapeeth Women,ENTC,HU,OBC,Gender-Neutral,52753,77.4193548,1,SPPU
+Bharati Vidyapeeth Women,ENTC,HU,SC,Gender-Neutral,133045,15.931529,1,SPPU
+Bharati Vidyapeeth Women,ENTC,HU,ST,Gender-Neutral,59068,74.1356658,1,SPPU
+Bharati Vidyapeeth Women,ENTC,HU,NT1,Gender-Neutral,76647,64.4512569,1,SPPU
+Bharati Vidyapeeth Women,ENTC,HU,NT2,Gender-Neutral,57574,75.1476841,1,SPPU
+Bharati Vidyapeeth Women,ENTC,HU,NT3,Gender-Neutral,59902,73.642653,1,SPPU
+Bharati Vidyapeeth Women,ENTC,HU,VJ,Gender-Neutral,77760,63.973064,1,SPPU
+Rajarshi Shahu college of Eng,Civil,HU,OPEN,Gender-Neutral,91065,55.2985075,1,SPPU
+Rajarshi Shahu college of Eng,Civil,HU,OBC,Gender-Neutral,129006,20.9352787,1,SPPU
+Rajarshi Shahu college of Eng,Civil,HU,SC,Gender-Neutral,138251,8.8688138,1,SPPU
+Rajarshi Shahu college of Eng,Civil,HU,ST,Gender-Neutral,135671,12.6949825,1,SPPU
+Rajarshi Shahu college of Eng,Civil,HU,NT1,Gender-Neutral,114701,36.1619626,1,SPPU
+Rajarshi Shahu college of Eng,Civil,HU,NT2,Gender-Neutral,110376,39.9251777,1,SPPU
+Rajarshi Shahu college of Eng,Civil,HU,NT3,Gender-Neutral,106368,43.5071268,1,SPPU
+Rajarshi Shahu college of Eng,Civil,HU,VJ,Gender-Neutral,102258,46.8567142,1,SPPU
+Rajarshi Shahu college of Eng,CS,HU,OPEN,Gender-Neutral,8103,96.8735271,1,SPPU
+Rajarshi Shahu college of Eng,CS,HU,OBC,Gender-Neutral,8816,96.5922225,1,SPPU
+Rajarshi Shahu college of Eng,CS,HU,SC,Gender-Neutral,19239,92.2256284,1,SPPU
+Rajarshi Shahu college of Eng,CS,HU,ST,Gender-Neutral,64506,71.3590844,1,SPPU
+Rajarshi Shahu college of Eng,CS,HU,NT1,Gender-Neutral,13658,94.616159,1,SPPU
+Rajarshi Shahu college of Eng,CS,HU,NT2,Gender-Neutral,9767,96.207802,1,SPPU
+Rajarshi Shahu college of Eng,CS,HU,NT3,Gender-Neutral,8768,96.5951359,1,SPPU
+Rajarshi Shahu college of Eng,CS,HU,VJ,Gender-Neutral,11225,95.654289,1,SPPU
+Rajarshi Shahu college of Eng,IT,HU,OPEN,Gender-Neutral,10777,95.7761974,1,SPPU
+Rajarshi Shahu college of Eng,IT,HU,OBC,Gender-Neutral,11832,95.3703704,1,SPPU
+Rajarshi Shahu college of Eng,IT,HU,SC,Gender-Neutral,22562,90.8627157,1,SPPU
+Rajarshi Shahu college of Eng,IT,HU,ST,Gender-Neutral,88923,56.7366842,1,SPPU
+Rajarshi Shahu college of Eng,IT,HU,NT1,Gender-Neutral,19453,92.158114,1,SPPU
+Rajarshi Shahu college of Eng,IT,HU,NT2,Gender-Neutral,13176,94.8375696,1,SPPU
+Rajarshi Shahu college of Eng,IT,HU,NT3,Gender-Neutral,11089,95.660165,1,SPPU
+Rajarshi Shahu college of Eng,IT,HU,VJ,Gender-Neutral,18528,92.5560269,1,SPPU
+Rajarshi Shahu college of Eng,Computer Science and Business Systems,HU,OPEN,Gender-Neutral,12619,95.0628437,1,SPPU
+Rajarshi Shahu college of Eng,Computer Science and Business Systems,HU,OBC,Gender-Neutral,13682,94.616159,1,SPPU
+Rajarshi Shahu college of Eng,Computer Science and Business Systems,HU,SC,Gender-Neutral,24979,89.9583318,1,SPPU
+Rajarshi Shahu college of Eng,Computer Science and Business Systems,HU,ST,Gender-Neutral,98533,49.6143282,1,SPPU
+Rajarshi Shahu college of Eng,Computer Science and Business Systems,HU,NT1,Gender-Neutral,30086,87.6216398,1,SPPU
+Rajarshi Shahu college of Eng,Computer Science and Business Systems,HU,NT2,Gender-Neutral,22079,91.0376802,1,SPPU
+Rajarshi Shahu college of Eng,Computer Science and Business Systems,HU,NT3,Gender-Neutral,21802,91.2254517,1,SPPU
+Rajarshi Shahu college of Eng,Computer Science and Business Systems,HU,VJ,Gender-Neutral,25138,89.7275823,1,SPPU
+Rajarshi Shahu college of Eng,Electrical,HU,OPEN,Gender-Neutral,48039,79.7413145,1,SPPU
+Rajarshi Shahu college of Eng,Electrical,HU,OBC,Gender-Neutral,56038,75.867353,1,SPPU
+Rajarshi Shahu college of Eng,Electrical,HU,SC,Gender-Neutral,70315,68.3823818,1,SPPU
+Rajarshi Shahu college of Eng,Electrical,HU,ST,Gender-Neutral,57575,75.1476841,1,SPPU
+Rajarshi Shahu college of Eng,Electrical,HU,NT1,Gender-Neutral,61681,73.1851907,1,SPPU
+Rajarshi Shahu college of Eng,Electrical,HU,NT2,Gender-Neutral,52926,77.0079706,1,SPPU
+Rajarshi Shahu college of Eng,Electrical,HU,NT3,Gender-Neutral,82886,60.8798115,1,SPPU
+Rajarshi Shahu college of Eng,Electrical,HU,VJ,Gender-Neutral,127139,23.2280676,1,SPPU
+Rajarshi Shahu college of Eng,ENTC,HU,OPEN,Gender-Neutral,20234,91.7707151,1,SPPU
+Rajarshi Shahu college of Eng,ENTC,HU,OBC,Gender-Neutral,22299,90.9958615,1,SPPU
+Rajarshi Shahu college of Eng,ENTC,HU,SC,Gender-Neutral,34131,85.9227307,1,SPPU
+Rajarshi Shahu college of Eng,ENTC,HU,ST,Gender-Neutral,121896,29.2444305,1,SPPU
+Rajarshi Shahu college of Eng,ENTC,HU,NT1,Gender-Neutral,29271,88.0751247,1,SPPU
+Rajarshi Shahu college of Eng,ENTC,HU,NT2,Gender-Neutral,20868,91.6480738,1,SPPU
+Rajarshi Shahu college of Eng,ENTC,HU,NT3,Gender-Neutral,23945,90.2424513,1,SPPU
+Rajarshi Shahu college of Eng,ENTC,HU,VJ,Gender-Neutral,37954,84.216054,1,SPPU
+Rajarshi Shahu college of Eng,Mechanical,HU,OPEN,Gender-Neutral,61983,73.0265619,1,SPPU
+Rajarshi Shahu college of Eng,Mechanical,HU,OBC,Gender-Neutral,66767,70.2813361,1,SPPU
+Rajarshi Shahu college of Eng,Mechanical,HU,SC,Gender-Neutral,96943,50.8083922,1,SPPU
+Rajarshi Shahu college of Eng,Mechanical,HU,ST,Gender-Neutral,86566,58.1382561,1,SPPU
+Rajarshi Shahu college of Eng,Mechanical,HU,NT1,Gender-Neutral,101908,47.3478734,1,SPPU
+Rajarshi Shahu college of Eng,Mechanical,HU,NT2,Gender-Neutral,71046,67.711928,1,SPPU
+Rajarshi Shahu college of Eng,Mechanical,HU,NT3,Gender-Neutral,75058,65.4207881,1,SPPU
+Rajarshi Shahu college of Eng,Mechanical,HU,VJ,Gender-Neutral,100423,48.9725355,1,SPPU
+Rajarshi Shahu college of Eng,Automation and Robotics,HU,OPEN,Gender-Neutral,32386,86.6965956,1,SPPU
+Rajarshi Shahu college of Eng,Automation and Robotics,HU,OBC,Gender-Neutral,39310,83.4300164,1,SPPU
+Rajarshi Shahu college of Eng,Automation and Robotics,HU,SC,Gender-Neutral,50254,78.4161664,1,SPPU
+Rajarshi Shahu college of Eng,Automation and Robotics,HU,ST,Gender-Neutral,47597,79.7907966,1,SPPU
+Rajarshi Shahu college of Eng,Automation and Robotics,HU,NT1,Gender-Neutral,41668,82.4443082,1,SPPU
+Rajarshi Shahu college of Eng,Automation and Robotics,HU,NT2,Gender-Neutral,40436,83.2373857,1,SPPU
+Rajarshi Shahu college of Eng,Automation and Robotics,HU,NT3,Gender-Neutral,50327,78.4065273,1,SPPU
+Rajarshi Shahu college of Eng,Automation and Robotics,HU,VJ,Gender-Neutral,59308,74.1356658,1,SPPU
+Modern education society's COE,CS,HU,OPEN,Gender-Neutral,16845,93.2909032,1,SPPU
+Modern education society's COE,CS,HU,OBC,Gender-Neutral,18656,92.4862529,1,SPPU
+Modern education society's COE,CS,HU,SC,Gender-Neutral,41048,82.869523,1,SPPU
+Modern education society's COE,CS,HU,ST,Gender-Neutral,136763,11.119036,1,SPPU
+Modern education society's COE,CS,HU,NT1,Gender-Neutral,23878,90.2424513,1,SPPU
+Modern education society's COE,CS,HU,NT2,Gender-Neutral,17825,92.8593873,1,SPPU
+Modern education society's COE,CS,HU,NT3,Gender-Neutral,17515,93.0452675,1,SPPU
+Modern education society's COE,CS,HU,VJ,Gender-Neutral,42787,82.2034564,1,SPPU
+Modern education society's COE,ENTC,HU,OPEN,Gender-Neutral,33374,86.1668982,1,SPPU
+Modern education society's COE,ENTC,HU,OBC,Gender-Neutral,38462,84.2006246,1,SPPU
+Modern education society's COE,ENTC,HU,SC,Gender-Neutral,72708,66.8171727,1,SPPU
+Modern education society's COE,ENTC,HU,ST,Gender-Neutral,39350,83.4300164,1,SPPU
+Modern education society's COE,ENTC,HU,NT1,Gender-Neutral,57472,75.1476841,1,SPPU
+Modern education society's COE,ENTC,HU,NT2,Gender-Neutral,36607,84.740951,1,SPPU
+Modern education society's COE,ENTC,HU,NT3,Gender-Neutral,40521,83.2373857,1,SPPU
+Modern education society's COE,ENTC,HU,VJ,Gender-Neutral,100599,48.0589023,1,SPPU
+Modern education society's COE,Mechanical,HU,OPEN,Gender-Neutral,88061,56.982253,1,SPPU
+Modern education society's COE,Mechanical,HU,OBC,Gender-Neutral,108567,42.2969628,1,SPPU
+Modern education society's COE,Mechanical,HU,SC,Gender-Neutral,139482,6.5686569,1,SPPU
+Modern education society's COE,Mechanical,HU,ST,Gender-Neutral,130444,19.1048437,1,SPPU
+Modern education society's COE,Mechanical,HU,NT1,Gender-Neutral,94302,52.7422372,1,SPPU
+Modern education society's COE,Mechanical,HU,NT2,Gender-Neutral,118958,32.3660798,1,SPPU
+Modern education society's COE,Mechanical,HU,NT3,Gender-Neutral,119982,30.9520229,1,SPPU
+Modern education society's COE,Mechanical,HU,VJ,Gender-Neutral,109757,40.6521983,1,SPPU
+Modern education society's COE,Automation and Robotics,HU,OPEN,Gender-Neutral,47091,80.0408747,1,SPPU
+Modern education society's COE,Automation and Robotics,HU,OBC,Gender-Neutral,55642,75.8958975,1,SPPU
+Modern education society's COE,Automation and Robotics,HU,SC,Gender-Neutral,84595,59.8623853,1,SPPU
+Modern education society's COE,Automation and Robotics,HU,ST,Gender-Neutral,65805,71.0587355,1,SPPU
+Modern education society's COE,Automation and Robotics,HU,NT1,Gender-Neutral,56216,75.3496766,1,SPPU
+Modern education society's COE,Automation and Robotics,HU,NT2,Gender-Neutral,60835,73.2701208,1,SPPU
+Modern education society's COE,Automation and Robotics,HU,NT3,Gender-Neutral,57744,75.1338688,1,SPPU
+Modern education society's COE,Automation and Robotics,HU,VJ,Gender-Neutral,100082,73.2701208,1,SPPU
+Bharti Vidhyapeeth COE,CS,HU,OPEN,Gender-Neutral,14704,94.1946157,1,SPPU
+Bharti Vidhyapeeth COE,CS,HU,OBC,Gender-Neutral,16935,93.2167123,1,SPPU
+Bharti Vidhyapeeth COE,CS,HU,SC,Gender-Neutral,35660,85.2500884,1,SPPU
+Bharti Vidhyapeeth COE,CS,HU,ST,Gender-Neutral,113772,36.6068088,1,SPPU
+Bharti Vidhyapeeth COE,CS,HU,NT1,Gender-Neutral,32331,86.6965956,1,SPPU
+Bharti Vidhyapeeth COE,CS,HU,NT2,Gender-Neutral,30819,87.2543136,1,SPPU
+Bharti Vidhyapeeth COE,CS,HU,NT3,Gender-Neutral,20159,91.804929,1,SPPU
+Bharti Vidhyapeeth COE,CS,HU,VJ,Gender-Neutral,57799,75.1338688,1,SPPU
+Bharti Vidhyapeeth COE,ENTC,HU,OPEN,Gender-Neutral,39598,83.4053417,1,SPPU
+Bharti Vidhyapeeth COE,ENTC,HU,OBC,Gender-Neutral,41791,82.3346823,1,SPPU
+Bharti Vidhyapeeth COE,ENTC,HU,SC,Gender-Neutral,93909,53.1660451,1,SPPU
+Bharti Vidhyapeeth COE,ENTC,HU,ST,Gender-Neutral,132531,16.3662375,1,SPPU
+Bharti Vidhyapeeth COE,ENTC,HU,NT1,Gender-Neutral,46129,80.6210251,1,SPPU
+Bharti Vidhyapeeth COE,ENTC,HU,NT2,Gender-Neutral,43113,82.0912919,1,SPPU
+Bharti Vidhyapeeth COE,ENTC,HU,NT3,Gender-Neutral,87528,58.0840122,1,SPPU
+Bharti Vidhyapeeth COE,ENTC,HU,VJ,Gender-Neutral,43762,81.5104589,1,SPPU
+Bharti Vidhyapeeth COE,Mechanical,HU,OPEN,Gender-Neutral,99432,49.4761567,1,SPPU
+Bharti Vidhyapeeth COE,Mechanical,HU,OBC,Gender-Neutral,108593,42.2969628,1,SPPU
+Bharti Vidhyapeeth COE,Mechanical,HU,SC,Gender-Neutral,132962,15.931529,1,SPPU
+Bharti Vidhyapeeth COE,Mechanical,HU,ST,Gender-Neutral,90338,55.7163295,1,SPPU
+Bharti Vidhyapeeth COE,Mechanical,HU,NT1,Gender-Neutral,132486,16.9363708,1,SPPU
+Bharti Vidhyapeeth COE,Mechanical,HU,NT2,Gender-Neutral,124745,26.0127532,1,SPPU
+Bharti Vidhyapeeth COE,Mechanical,HU,NT3,Gender-Neutral,78146,63.6910141,1,SPPU
+Bharti Vidhyapeeth COE,Mechanical,HU,VJ,Gender-Neutral,86319,58.5474069,1,SPPU
+MMCOE,CS,HU,OPEN,Gender-Neutral,10970,95.7239057,1,SPPU
+MMCOE,CS,HU,OBC,Gender-Neutral,15297,93.9473684,1,SPPU
+MMCOE,CS,HU,SC,Gender-Neutral,35645,85.2500884,1,SPPU
+MMCOE,CS,HU,ST,Gender-Neutral,99259,49.4761567,1,SPPU
+MMCOE,CS,HU,NT1,Gender-Neutral,17894,92.8392664,1,SPPU
+MMCOE,CS,HU,NT2,Gender-Neutral,16412,93.4566198,1,SPPU
+MMCOE,CS,HU,NT3,Gender-Neutral,13715,94.5948987,1,SPPU
+MMCOE,CS,HU,VJ,Gender-Neutral,34833,85.4752553,1,SPPU
+MMCOE,IT,HU,OPEN,Gender-Neutral,15937,93.641901,1,SPPU
+MMCOE,IT,HU,OBC,Gender-Neutral,17867,92.8392664,1,SPPU
+MMCOE,IT,HU,SC,Gender-Neutral,45536,80.9858625,1,SPPU
+MMCOE,IT,HU,ST,Gender-Neutral,96020,52.2415622,1,SPPU
+MMCOE,IT,HU,NT1,Gender-Neutral,28285,88.4658665,1,SPPU
+MMCOE,IT,HU,NT2,Gender-Neutral,14410,94.3248312,1,SPPU
+MMCOE,IT,HU,NT3,Gender-Neutral,20829,91.6889238,1,SPPU
+MMCOE,IT,HU,VJ,Gender-Neutral,38568,84.0516274,1,SPPU
+MMCOE,Electrical,HU,OPEN,Gender-Neutral,76826,64.4512569,1,SPPU
+MMCOE,Electrical,HU,OBC,Gender-Neutral,85830,58.7124464,1,SPPU
+MMCOE,Electrical,HU,SC,Gender-Neutral,132274,17.0292573,1,SPPU
+MMCOE,Electrical,HU,ST,Gender-Neutral,102082,46.8567142,1,SPPU
+MMCOE,Electrical,HU,NT1,Gender-Neutral,100092,49.0455617,1,SPPU
+MMCOE,Electrical,HU,NT2,Gender-Neutral,88910,56.7366842,1,SPPU
+MMCOE,Electrical,HU,NT3,Gender-Neutral,93614,53.1660451,1,SPPU
+MMCOE,Electrical,HU,VJ,Gender-Neutral,99291,49.4761567,1,SPPU
+MMCOE,ENTC,HU,OPEN,Gender-Neutral,28827,88.144407,1,SPPU
+MMCOE,ENTC,HU,OBC,Gender-Neutral,35122,85.415737,1,SPPU
+MMCOE,ENTC,HU,SC,Gender-Neutral,81156,61.6397637,1,SPPU
+MMCOE,ENTC,HU,ST,Gender-Neutral,69126,69.0354573,1,SPPU
+MMCOE,ENTC,HU,NT1,Gender-Neutral,60904,73.2701208,1,SPPU
+MMCOE,ENTC,HU,NT2,Gender-Neutral,41937,82.3107244,1,SPPU
+MMCOE,ENTC,HU,NT3,Gender-Neutral,38769,83.878077,1,SPPU
+MMCOE,ENTC,HU,VJ,Gender-Neutral,104231,45.8483896,1,SPPU
+MMCOE,Mechanical,HU,OPEN,Gender-Neutral,65808,71.0587355,1,SPPU
+MMCOE,Mechanical,HU,OBC,Gender-Neutral,92938,53.8156961,1,SPPU
+MMCOE,Mechanical,HU,SC,Gender-Neutral,129991,19.9324831,1,SPPU
+MMCOE,Mechanical,HU,ST,Gender-Neutral,122403,28.6046774,1,SPPU
+MMCOE,Mechanical,HU,NT1,Gender-Neutral,89554,55.9130075,1,SPPU
+MMCOE,Mechanical,HU,NT2,Gender-Neutral,126319,24.1305891,1,SPPU
+MMCOE,Mechanical,HU,NT3,Gender-Neutral,69297,68.9337823,1,SPPU
+MMCOE,Mechanical,HU,VJ,Gender-Neutral,124875,25.5459544,1,SPPU
+MMCOE,AIDS,HU,OPEN,Gender-Neutral,17846,92.8593873,1,SPPU
+MMCOE,AIDS,HU,OBC,Gender-Neutral,20137,91.804929,1,SPPU
+MMCOE,AIDS,HU,SC,Gender-Neutral,48054,79.7413145,1,SPPU
+MMCOE,AIDS,HU,ST,Gender-Neutral,35998,85.1782223,1,SPPU
+MMCOE,AIDS,HU,NT1,Gender-Neutral,27546,88.7549097,1,SPPU
+MMCOE,AIDS,HU,NT2,Gender-Neutral,19251,92.2256284,1,SPPU
+MMCOE,AIDS,HU,NT3,Gender-Neutral,25816,89.4673668,1,SPPU
+MMCOE,AIDS,HU,VJ,Gender-Neutral,30650,87.4150328,1,SPPU
+DYP School of Eng Lohegaon,CS,HU,OPEN,Gender-Neutral,27084,88.9154021,1,SPPU
+DYP School of Eng Lohegaon,CS,HU,OBC,Gender-Neutral,31041,87.2266503,1,SPPU
+DYP School of Eng Lohegaon,CS,HU,SC,Gender-Neutral,56761,75.1725431,1,SPPU
+DYP School of Eng Lohegaon,CS,HU,ST,Gender-Neutral,47767,79.7807688,1,SPPU
+DYP School of Eng Lohegaon,CS,HU,NT1,Gender-Neutral,46111,80.6210251,1,SPPU
+DYP School of Eng Lohegaon,CS,HU,NT2,Gender-Neutral,37156,84.4681938,1,SPPU
+DYP School of Eng Lohegaon,CS,HU,NT3,Gender-Neutral,27682,88.6736154,1,SPPU
+DYP School of Eng Lohegaon,CS,HU,VJ,Gender-Neutral,55898,75.867353,1,SPPU
+DYP School of Eng Lohegaon,ENTC,HU,OPEN,Gender-Neutral,61256,73.2522683,1,SPPU
+DYP School of Eng Lohegaon,ENTC,HU,OBC,Gender-Neutral,66092,70.6180504,1,SPPU
+DYP School of Eng Lohegaon,ENTC,HU,SC,Gender-Neutral,100450,48.9725355,1,SPPU
+DYP School of Eng Lohegaon,ENTC,HU,ST,Gender-Neutral,122286,28.6046774,1,SPPU
+DYP School of Eng Lohegaon,ENTC,HU,NT1,Gender-Neutral,95944,52.2415622,1,SPPU
+DYP School of Eng Lohegaon,ENTC,HU,NT2,Gender-Neutral,62096,72.6119403,1,SPPU
+DYP School of Eng Lohegaon,ENTC,HU,NT3,Gender-Neutral,79958,62.4868401,1,SPPU
+DYP School of Eng Lohegaon,ENTC,HU,VJ,Gender-Neutral,121301,29.4111028,1,SPPU
+DYP School of Eng Lohegaon,Mechanical,HU,OPEN,Gender-Neutral,131251,18.4453326,1,SPPU
+DYP School of Eng Lohegaon,Mechanical,HU,OBC,Gender-Neutral,133388,15.6886806,1,SPPU
+DYP School of Eng Lohegaon,Mechanical,HU,SC,Gender-Neutral,139715,6.2955526,1,SPPU
+DYP School of Eng Lohegaon,Mechanical,HU,ST,Gender-Neutral,136640,11.1520155,1,SPPU
+DYP School of Eng Lohegaon,Mechanical,HU,NT1,Gender-Neutral,132533,16.3662375,1,SPPU
+DYP School of Eng Lohegaon,Mechanical,HU,NT2,Gender-Neutral,121449,29.3464077,1,SPPU
+DYP School of Eng Lohegaon,Mechanical,HU,NT3,Gender-Neutral,118133,32.6609746,1,SPPU
+DYP School of Eng Lohegaon,Mechanical,HU,VJ,Gender-Neutral,140627,4.9855138,1,SPPU
+DYP School of Eng Lohegaon,AIDS,HU,OPEN,Gender-Neutral,36723,84.5158411,1,SPPU
+DYP School of Eng Lohegaon,AIDS,HU,OBC,Gender-Neutral,40223,83.2892137,1,SPPU
+DYP School of Eng Lohegaon,AIDS,HU,SC,Gender-Neutral,65143,71.2687819,1,SPPU
+DYP School of Eng Lohegaon,AIDS,HU,ST,Gender-Neutral,40139,83.348395,1,SPPU
+DYP School of Eng Lohegaon,AIDS,HU,NT1,Gender-Neutral,43605,81.5104589,1,SPPU
+DYP School of Eng Lohegaon,AIDS,HU,NT2,Gender-Neutral,42956,82.1650299,1,SPPU
+DYP School of Eng Lohegaon,AIDS,HU,NT3,Gender-Neutral,37737,84.3950599,1,SPPU
+DYP School of Eng Lohegaon,AIDS,HU,VJ,Gender-Neutral,73031,66.6716379,1,SPPU
+Sinhgad COE,Bio Technology,HU,OPEN,Gender-Neutral,87513,58.0840122,1,SPPU
+Sinhgad COE,Bio Technology,HU,OBC,Gender-Neutral,99356,49.4761567,1,SPPU
+Sinhgad COE,Bio Technology,HU,SC,Gender-Neutral,94576,52.7422372,1,SPPU
+Sinhgad COE,Bio Technology,HU,ST,Gender-Neutral,119024,32.3095051,1,SPPU
+Sinhgad COE,Bio Technology,HU,NT1,Gender-Neutral,123116,27.6545345,1,SPPU
+Sinhgad COE,Bio Technology,HU,NT2,Gender-Neutral,119067,32.3095051,1,SPPU
+Sinhgad COE,Bio Technology,HU,NT3,Gender-Neutral,84179,59.9156802,1,SPPU
+Sinhgad COE,Bio Technology,HU,VJ,Gender-Neutral,112580,38.8357386,1,SPPU
+Sinhgad COE,Civil,HU,OPEN,Gender-Neutral,127911,22.0314735,1,SPPU
+Sinhgad COE,Civil,HU,OBC,Gender-Neutral,134966,13.3235504,1,SPPU
+Sinhgad COE,Civil,HU,SC,Gender-Neutral,141716,2.9795687,1,SPPU
+Sinhgad COE,Civil,HU,ST,Gender-Neutral,131902,17.7025465,1,SPPU
+Sinhgad COE,Civil,HU,NT1,Gender-Neutral,106187,43.5071268,1,SPPU
+Sinhgad COE,Civil,HU,NT2,Gender-Neutral,142345,1.8963766,1,SPPU
+Sinhgad COE,Civil,HU,NT3,Gender-Neutral,138919,7.6246225,1,SPPU
+Sinhgad COE,Civil,HU,VJ,Gender-Neutral,118403,32.4663078,1,SPPU
+Sinhgad COE,CS,HU,OPEN,Gender-Neutral,14093,94.3991892,1,SPPU
+Sinhgad COE,CS,HU,OBC,Gender-Neutral,16698,93.3857089,1,SPPU
+Sinhgad COE,CS,HU,SC,Gender-Neutral,33373,86.1668982,1,SPPU
+Sinhgad COE,CS,HU,ST,Gender-Neutral,91236,55.2985075,1,SPPU
+Sinhgad COE,CS,HU,NT1,Gender-Neutral,14800,94.1219394,1,SPPU
+Sinhgad COE,CS,HU,NT2,Gender-Neutral,16147,93.5395473,1,SPPU
+Sinhgad COE,CS,HU,NT3,Gender-Neutral,14212,94.3894513,1,SPPU
+Sinhgad COE,CS,HU,VJ,Gender-Neutral,40730,83.1704016,1,SPPU
+Sinhgad COE,IT,HU,OPEN,Gender-Neutral,17746,92.8619655,1,SPPU
+Sinhgad COE,IT,HU,OBC,Gender-Neutral,18585,92.4956109,1,SPPU
+Sinhgad COE,IT,HU,SC,Gender-Neutral,46114,80.6210251,1,SPPU
+Sinhgad COE,IT,HU,ST,Gender-Neutral,129942,19.9324831,1,SPPU
+Sinhgad COE,IT,HU,NT1,Gender-Neutral,31504,87.0556299,1,SPPU
+Sinhgad COE,IT,HU,NT2,Gender-Neutral,19670,92.1314889,1,SPPU
+Sinhgad COE,IT,HU,NT3,Gender-Neutral,19898,92.0788066,1,SPPU
+Sinhgad COE,IT,HU,VJ,Gender-Neutral,41570,82.4443082,1,SPPU
+Sinhgad COE,ENTC,HU,OPEN,Gender-Neutral,36330,85.1488129,1,SPPU
+Sinhgad COE,ENTC,HU,OBC,Gender-Neutral,40379,83.2892137,1,SPPU
+Sinhgad COE,ENTC,HU,SC,Gender-Neutral,92227,54.6296296,1,SPPU
+Sinhgad COE,ENTC,HU,ST,Gender-Neutral,126643,23.8907594,1,SPPU
+Sinhgad COE,ENTC,HU,NT1,Gender-Neutral,47392,79.8081214,1,SPPU
+Sinhgad COE,ENTC,HU,NT2,Gender-Neutral,41507,82.4443082,1,SPPU
+Sinhgad COE,ENTC,HU,NT3,Gender-Neutral,41855,82.3346823,1,SPPU
+Sinhgad COE,ENTC,HU,VJ,Gender-Neutral,85898,58.7124464,1,SPPU
+Sinhgad COE,Chemical,HU,OPEN,Gender-Neutral,92341,54.6296296,1,SPPU
+Sinhgad COE,Chemical,HU,OBC,Gender-Neutral,107397,42.9215913,1,SPPU
+Sinhgad COE,Chemical,HU,SC,Gender-Neutral,136707,11.119036,1,SPPU
+Sinhgad COE,Chemical,HU,ST,Gender-Neutral,103302,46.1690466,1,SPPU
+Sinhgad COE,Chemical,HU,NT1,Gender-Neutral,117088,33.8201786,1,SPPU
+Sinhgad COE,Chemical,HU,NT2,Gender-Neutral,118173,32.6609746,1,SPPU
+Sinhgad COE,Chemical,HU,NT3,Gender-Neutral,92653,54.0043616,1,SPPU
+Sinhgad COE,Chemical,HU,VJ,Gender-Neutral,134737,13.6087239,1,SPPU
+Sinhgad COE,Mechanical,HU,OPEN,Gender-Neutral,98835,49.5548073,1,SPPU
+Sinhgad COE,Mechanical,HU,OBC,Gender-Neutral,112738,38.8357386,1,SPPU
+Sinhgad COE,Mechanical,HU,SC,Gender-Neutral,139286,7.2570822,1,SPPU
+Sinhgad COE,Mechanical,HU,ST,Gender-Neutral,127443,22.9499823,1,SPPU
+Sinhgad COE,Mechanical,HU,NT1,Gender-Neutral,116756,34.1365462,1,SPPU
+Sinhgad COE,Mechanical,HU,NT2,Gender-Neutral,106812,43.224841,1,SPPU
+Sinhgad COE,Mechanical,HU,NT3,Gender-Neutral,118304,32.6609746,1,SPPU
+Sinhgad COE,Mechanical,HU,VJ,Gender-Neutral,138954,7.6246225,1,SPPU
+Sinhgad SKNCOE,CS,HU,OPEN,Gender-Neutral,20172,91.7707151,1,SPPU
+Sinhgad SKNCOE,CS,HU,OBC,Gender-Neutral,22557,90.8627157,1,SPPU
+Sinhgad SKNCOE,CS,HU,SC,Gender-Neutral,51015,78.3308876,1,SPPU
+Sinhgad SKNCOE,CS,HU,ST,Gender-Neutral,141278,3.8430355,1,SPPU
+Sinhgad SKNCOE,CS,HU,NT1,Gender-Neutral,33621,86.1075077,1,SPPU
+Sinhgad SKNCOE,CS,HU,NT2,Gender-Neutral,22936,90.683425,1,SPPU
+Sinhgad SKNCOE,CS,HU,NT3,Gender-Neutral,23295,90.5702023,1,SPPU
+Sinhgad SKNCOE,CS,HU,VJ,Gender-Neutral,49717,78.7120349,1,SPPU
+Sinhgad SKNCOE,IT,HU,OPEN,Gender-Neutral,22570,90.8627157,1,SPPU
+Sinhgad SKNCOE,IT,HU,OBC,Gender-Neutral,23172,90.6234798,1,SPPU
+Sinhgad SKNCOE,IT,HU,SC,Gender-Neutral,54796,76.6166542,1,SPPU
+Sinhgad SKNCOE,IT,HU,ST,Gender-Neutral,86971,58.1195238,1,SPPU
+Sinhgad SKNCOE,IT,HU,NT1,Gender-Neutral,42473,82.2266135,1,SPPU
+Sinhgad SKNCOE,IT,HU,NT2,Gender-Neutral,23918,90.2424513,1,SPPU
+Sinhgad SKNCOE,IT,HU,NT3,Gender-Neutral,24612,89.9938688,1,SPPU
+Sinhgad SKNCOE,IT,HU,VJ,Gender-Neutral,50611,78.3430016,1,SPPU
+Sinhgad SKNCOE,ENTC,HU,OPEN,Gender-Neutral,48972,79.3939394,1,SPPU
+Sinhgad SKNCOE,ENTC,HU,OBC,Gender-Neutral,53779,76.839044,1,SPPU
+Sinhgad SKNCOE,ENTC,HU,SC,Gender-Neutral,108337,42.4233825,1,SPPU
+Sinhgad SKNCOE,ENTC,HU,ST,Gender-Neutral,107761,42.5955447,1,SPPU
+Sinhgad SKNCOE,ENTC,HU,NT1,Gender-Neutral,58327,74.8671904,1,SPPU
+Sinhgad SKNCOE,ENTC,HU,NT2,Gender-Neutral,52209,77.7994669,1,SPPU
+Sinhgad SKNCOE,ENTC,HU,NT3,Gender-Neutral,51546,78.067557,1,SPPU
+Sinhgad SKNCOE,ENTC,HU,VJ,Gender-Neutral,108633,42.2969628,1,SPPU
+Sinhgad SKNCOE,Mechanical,HU,OPEN,Gender-Neutral,136106,11.6574699,1,SPPU
+Sinhgad SKNCOE,Mechanical,HU,OBC,Gender-Neutral,140848,4.7070842,1,SPPU
+Sinhgad SKNCOE,Mechanical,HU,SC,Gender-Neutral,138918,7.6246225,1,SPPU
+Sinhgad SKNCOE,Mechanical,HU,ST,Gender-Neutral,137130,10.6046914,1,SPPU
+Sinhgad SKNCOE,Mechanical,HU,NT1,Gender-Neutral,140620,4.9855138,1,SPPU
+Sinhgad SKNCOE,Mechanical,HU,NT2,Gender-Neutral,138785,7.7366255,1,SPPU
+Sinhgad SKNCOE,Mechanical,HU,NT3,Gender-Neutral,138952,7.6246225,1,SPPU
+Sinhgad SKNCOE,Mechanical,HU,VJ,Gender-Neutral,130880,18.8110994,1,SPPU
+NBN Sinhgad School of Eng,CS,HU,OPEN,Gender-Neutral,25615,89.5398277,1,SPPU
+NBN Sinhgad School of Eng,CS,HU,OBC,Gender-Neutral,26732,89.0822549,1,SPPU
+NBN Sinhgad School of Eng,CS,HU,SC,Gender-Neutral,66359,70.5106049,1,SPPU
+NBN Sinhgad School of Eng,CS,HU,ST,Gender-Neutral,130350,19.1048437,1,SPPU
+NBN Sinhgad School of Eng,CS,HU,NT1,Gender-Neutral,54187,76.7693871,1,SPPU
+NBN Sinhgad School of Eng,CS,HU,NT2,Gender-Neutral,28968,88.0989788,1,SPPU
+NBN Sinhgad School of Eng,CS,HU,NT3,Gender-Neutral,30285,87.5456222,1,SPPU
+NBN Sinhgad School of Eng,CS,HU,VJ,Gender-Neutral,64321,71.4000828,1,SPPU
+NBN Sinhgad School of Eng,IT,HU,OPEN,Gender-Neutral,27245,88.8621945,1,SPPU
+NBN Sinhgad School of Eng,IT,HU,OBC,Gender-Neutral,27681,88.6736154,1,SPPU
+NBN Sinhgad School of Eng,IT,HU,SC,Gender-Neutral,74065,66.3914919,1,SPPU
+NBN Sinhgad School of Eng,IT,HU,ST,Gender-Neutral,70817,67.9544349,1,SPPU
+NBN Sinhgad School of Eng,IT,HU,NT1,Gender-Neutral,69404,68.9337823,1,SPPU
+NBN Sinhgad School of Eng,IT,HU,NT2,Gender-Neutral,33894,86.039254,1,SPPU
+NBN Sinhgad School of Eng,IT,HU,NT3,Gender-Neutral,28517,88.2793393,1,SPPU
+NBN Sinhgad School of Eng,IT,HU,VJ,Gender-Neutral,37412,84.4304792,1,SPPU
+NBN Sinhgad School of Eng,Electrical,HU,OPEN,Gender-Neutral,101906,47.3478734,1,SPPU
+NBN Sinhgad School of Eng,Electrical,HU,OBC,Gender-Neutral,113616,37.1297299,1,SPPU
+NBN Sinhgad School of Eng,Electrical,HU,SC,Gender-Neutral,139347,7.2152396,1,SPPU
+NBN Sinhgad School of Eng,Electrical,HU,ST,Gender-Neutral,135613,12.6949825,1,SPPU
+NBN Sinhgad School of Eng,Electrical,HU,NT1,Gender-Neutral,118930,32.3660798,1,SPPU
+NBN Sinhgad School of Eng,Electrical,HU,NT2,Gender-Neutral,136836,11.0960605,1,SPPU
+NBN Sinhgad School of Eng,Electrical,HU,NT3,Gender-Neutral,125840,24.8864926,1,SPPU
+NBN Sinhgad School of Eng,Electrical,HU,VJ,Gender-Neutral,104438,45.6445719,1,SPPU
+NBN Sinhgad School of Eng,ENTC,HU,OPEN,Gender-Neutral,53655,76.8406961,1,SPPU
+NBN Sinhgad School of Eng,ENTC,HU,OBC,Gender-Neutral,58116,75.0737739,1,SPPU
+NBN Sinhgad School of Eng,ENTC,HU,SC,Gender-Neutral,114610,36.3578395,1,SPPU
+NBN Sinhgad School of Eng,ENTC,HU,ST,Gender-Neutral,47772,79.7807688,1,SPPU
+NBN Sinhgad School of Eng,ENTC,HU,NT1,Gender-Neutral,70848,67.9544349,1,SPPU
+NBN Sinhgad School of Eng,ENTC,HU,NT2,Gender-Neutral,58633,74.4658288,1,SPPU
+NBN Sinhgad School of Eng,ENTC,HU,NT3,Gender-Neutral,63658,71.6671025,1,SPPU
+NBN Sinhgad School of Eng,ENTC,HU,VJ,Gender-Neutral,106399,43.5071268,1,SPPU
+SITS Narhe,CS,HU,OPEN,Gender-Neutral,27406,88.8028432,1,SPPU
+SITS Narhe,CS,HU,OBC,Gender-Neutral,29365,88.0695638,1,SPPU
+SITS Narhe,CS,HU,SC,Gender-Neutral,63142,71.9809302,1,SPPU
+SITS Narhe,CS,HU,ST,Gender-Neutral,140883,4.2487592,1,SPPU
+SITS Narhe,CS,HU,NT1,Gender-Neutral,46150,80.6210251,1,SPPU
+SITS Narhe,CS,HU,NT2,Gender-Neutral,35085,85.415737,1,SPPU
+SITS Narhe,CS,HU,NT3,Gender-Neutral,28545,88.2793393,1,SPPU
+SITS Narhe,CS,HU,VJ,Gender-Neutral,58099,75.0737739,1,SPPU
+SITS Narhe,IT,HU,OPEN,Gender-Neutral,31323,87.0718315,1,SPPU
+SITS Narhe,IT,HU,OBC,Gender-Neutral,32076,86.8453057,1,SPPU
+SITS Narhe,IT,HU,SC,Gender-Neutral,72700,66.8171727,1,SPPU
+SITS Narhe,IT,HU,ST,Gender-Neutral,112199,38.9045575,1,SPPU
+SITS Narhe,IT,HU,NT1,Gender-Neutral,93542,53.6496624,1,SPPU
+SITS Narhe,IT,HU,NT2,Gender-Neutral,26731,89.0822549,1,SPPU
+SITS Narhe,IT,HU,NT3,Gender-Neutral,38995,83.6387222,1,SPPU
+SITS Narhe,IT,HU,VJ,Gender-Neutral,50697,78.3430016,1,SPPU
+SITS Narhe,ENTC,HU,OPEN,Gender-Neutral,56999,75.1687111,1,SPPU
+SITS Narhe,ENTC,HU,OBC,Gender-Neutral,58901,74.1935484,1,SPPU
+SITS Narhe,ENTC,HU,SC,Gender-Neutral,114680,36.1619626,1,SPPU
+SITS Narhe,ENTC,HU,ST,Gender-Neutral,101947,47.3478734,1,SPPU
+SITS Narhe,ENTC,HU,NT1,Gender-Neutral,93521,53.6496624,1,SPPU
+SITS Narhe,ENTC,HU,NT2,Gender-Neutral,65988,70.6180504,1,SPPU
+SITS Narhe,ENTC,HU,NT3,Gender-Neutral,69870,68.8122862,1,SPPU
+SITS Narhe,ENTC,HU,VJ,Gender-Neutral,121571,29.3464077,1,SPPU
+Sinhgad Academy of Eng,CS,HU,OPEN,Gender-Neutral,31035,87.2266503,1,SPPU
+Sinhgad Academy of Eng,CS,HU,OBC,Gender-Neutral,33590,86.1075077,1,SPPU
+Sinhgad Academy of Eng,CS,HU,SC,Gender-Neutral,72981,66.8171727,1,SPPU
+Sinhgad Academy of Eng,CS,HU,ST,Gender-Neutral,66428,70.5106049,1,SPPU
+Sinhgad Academy of Eng,CS,HU,NT1,Gender-Neutral,50248,78.4161664,1,SPPU
+Sinhgad Academy of Eng,CS,HU,NT2,Gender-Neutral,31811,86.9095112,1,SPPU
+Sinhgad Academy of Eng,CS,HU,NT3,Gender-Neutral,35070,85.415737,1,SPPU
+Sinhgad Academy of Eng,CS,HU,VJ,Gender-Neutral,67463,69.6572694,1,SPPU
+Sinhgad Academy of Eng,IT,HU,OPEN,Gender-Neutral,33804,86.0518493,1,SPPU
+Sinhgad Academy of Eng,IT,HU,OBC,Gender-Neutral,37004,84.5084815,1,SPPU
+Sinhgad Academy of Eng,IT,HU,SC,Gender-Neutral,57063,75.1687111,1,SPPU
+Sinhgad Academy of Eng,IT,HU,ST,Gender-Neutral,74788,65.4207881,1,SPPU
+Sinhgad Academy of Eng,IT,HU,NT1,Gender-Neutral,50840,78.3430016,1,SPPU
+Sinhgad Academy of Eng,IT,HU,NT2,Gender-Neutral,36939,84.5084815,1,SPPU
+Sinhgad Academy of Eng,IT,HU,NT3,Gender-Neutral,32462,86.6965956,1,SPPU
+Sinhgad Academy of Eng,IT,HU,VJ,Gender-Neutral,29944,87.6984872,1,SPPU
+Sinhgad Academy of Eng,ENTC,HU,OPEN,Gender-Neutral,59613,74.0797795,1,SPPU
+Sinhgad Academy of Eng,ENTC,HU,OBC,Gender-Neutral,62870,72.3082536,1,SPPU
+Sinhgad Academy of Eng,ENTC,HU,SC,Gender-Neutral,127693,22.6551453,1,SPPU
+Sinhgad Academy of Eng,ENTC,HU,ST,Gender-Neutral,118302,32.6609746,1,SPPU
+Sinhgad Academy of Eng,ENTC,HU,NT1,Gender-Neutral,79891,62.4868401,1,SPPU
+Sinhgad Academy of Eng,ENTC,HU,NT2,Gender-Neutral,67276,69.6924231,1,SPPU
+Sinhgad Academy of Eng,ENTC,HU,NT3,Gender-Neutral,72362,66.9527897,1,SPPU
+Sinhgad Academy of Eng,ENTC,HU,VJ,Gender-Neutral,99271,49.4761567,1,SPPU
+RMD Sinhgad Warje,CS,HU,OPEN,Gender-Neutral,33075,86.3437564,1,SPPU
+RMD Sinhgad Warje,CS,HU,OBC,Gender-Neutral,36377,84.9532361,1,SPPU
+RMD Sinhgad Warje,CS,HU,SC,Gender-Neutral,75311,65.3263316,1,SPPU
+RMD Sinhgad Warje,CS,HU,ST,Gender-Neutral,73517,66.4309764,1,SPPU
+RMD Sinhgad Warje,CS,HU,NT1,Gender-Neutral,54424,76.7173434,1,SPPU
+RMD Sinhgad Warje,CS,HU,NT2,Gender-Neutral,35740,85.1907088,1,SPPU
+RMD Sinhgad Warje,CS,HU,NT3,Gender-Neutral,38200,84.2081516,1,SPPU
+RMD Sinhgad Warje,CS,HU,VJ,Gender-Neutral,66480,70.2813361,1,SPPU
+RMD Sinhgad Warje,IT,HU,OPEN,Gender-Neutral,36193,85.1488129,1,SPPU
+RMD Sinhgad Warje,IT,HU,OBC,Gender-Neutral,38270,84.2081516,1,SPPU
+RMD Sinhgad Warje,IT,HU,SC,Gender-Neutral,82051,61.2935921,1,SPPU
+RMD Sinhgad Warje,IT,HU,ST,Gender-Neutral,67127,69.7774101,1,SPPU
+RMD Sinhgad Warje,IT,HU,NT1,Gender-Neutral,35167,85.415737,1,SPPU
+RMD Sinhgad Warje,IT,HU,NT2,Gender-Neutral,46708,80.0793682,1,SPPU
+RMD Sinhgad Warje,IT,HU,NT3,Gender-Neutral,41706,82.3346823,1,SPPU
+RMD Sinhgad Warje,IT,HU,VJ,Gender-Neutral,111992,38.992574,1,SPPU
+RMD Sinhgad Warje,ENTC,HU,OPEN,Gender-Neutral,58848,74.1935484,1,SPPU
+RMD Sinhgad Warje,ENTC,HU,OBC,Gender-Neutral,69290,68.9337823,1,SPPU
+RMD Sinhgad Warje,ENTC,HU,SC,Gender-Neutral,119042,32.3095051,1,SPPU
+RMD Sinhgad Warje,ENTC,HU,ST,Gender-Neutral,115232,36.029881,1,SPPU
+RMD Sinhgad Warje,ENTC,HU,NT1,Gender-Neutral,118948,32.3660798,1,SPPU
+RMD Sinhgad Warje,ENTC,HU,NT2,Gender-Neutral,53043,77.0079706,1,SPPU
+RMD Sinhgad Warje,ENTC,HU,NT3,Gender-Neutral,64586,71.3590844,1,SPPU
+RMD Sinhgad Warje,ENTC,HU,VJ,Gender-Neutral,61719,73.1851907,1,SPPU
+JSPM Hadapsar,CS,HU,OPEN,Gender-Neutral,20100,91.804929,1,SPPU
+JSPM Hadapsar,CS,HU,OBC,Gender-Neutral,21694,91.2518343,1,SPPU
+JSPM Hadapsar,CS,HU,SC,Gender-Neutral,48350,79.5863208,1,SPPU
+JSPM Hadapsar,CS,HU,ST,Gender-Neutral,113687,37.1297299,1,SPPU
+JSPM Hadapsar,CS,HU,NT1,Gender-Neutral,28117,88.5133125,1,SPPU
+JSPM Hadapsar,CS,HU,NT2,Gender-Neutral,21706,91.2278745,1,SPPU
+JSPM Hadapsar,CS,HU,NT3,Gender-Neutral,26356,89.2906503,1,SPPU
+JSPM Hadapsar,CS,HU,VJ,Gender-Neutral,51190,78.1143775,1,SPPU
+JSPM Hadapsar,IT,HU,OPEN,Gender-Neutral,24705,89.96633,1,SPPU
+JSPM Hadapsar,IT,HU,OBC,Gender-Neutral,25681,89.5231349,1,SPPU
+JSPM Hadapsar,IT,HU,SC,Gender-Neutral,53004,77.0079706,1,SPPU
+JSPM Hadapsar,IT,HU,ST,Gender-Neutral,100116,49.0455617,1,SPPU
+JSPM Hadapsar,IT,HU,NT1,Gender-Neutral,45414,80.9858625,1,SPPU
+JSPM Hadapsar,IT,HU,NT2,Gender-Neutral,28428,88.2803409,1,SPPU
+JSPM Hadapsar,IT,HU,NT3,Gender-Neutral,28742,88.2671548,1,SPPU
+JSPM Hadapsar,IT,HU,VJ,Gender-Neutral,58093,75.0737739,1,SPPU
+JSPM Hadapsar,AIDS,HU,OPEN,Gender-Neutral,27437,88.7938441,1,SPPU
+JSPM Hadapsar,AIDS,HU,OBC,Gender-Neutral,28749,88.2671548,1,SPPU
+JSPM Hadapsar,AIDS,HU,SC,Gender-Neutral,58200,74.8671904,1,SPPU
+JSPM Hadapsar,AIDS,HU,ST,Gender-Neutral,104993,44.6898706,1,SPPU
+JSPM Hadapsar,AIDS,HU,NT1,Gender-Neutral,34414,85.8062103,1,SPPU
+JSPM Hadapsar,AIDS,HU,NT2,Gender-Neutral,38207,84.2081516,1,SPPU
+JSPM Hadapsar,AIDS,HU,NT3,Gender-Neutral,39404,83.4300164,1,SPPU
+JSPM Hadapsar,AIDS,HU,VJ,Gender-Neutral,68214,69.3042857,1,SPPU
+JSPM Hadapsar,Electrical,HU,OPEN,Gender-Neutral,88170,56.982253,1,SPPU
+JSPM Hadapsar,Electrical,HU,OBC,Gender-Neutral,95442,52.2466614,1,SPPU
+JSPM Hadapsar,Electrical,HU,SC,Gender-Neutral,134005,15.0249499,1,SPPU
+JSPM Hadapsar,Electrical,HU,ST,Gender-Neutral,126631,23.8907594,1,SPPU
+JSPM Hadapsar,Electrical,HU,NT1,Gender-Neutral,118603,32.4663078,1,SPPU
+JSPM Hadapsar,Electrical,HU,NT2,Gender-Neutral,107361,42.9215913,1,SPPU
+JSPM Hadapsar,Electrical,HU,NT3,Gender-Neutral,99721,49.2213366,1,SPPU
+JSPM Hadapsar,Electrical,HU,VJ,Gender-Neutral,95938,52.2415622,1,SPPU
+JSPM Hadapsar,ENTC,HU,OPEN,Gender-Neutral,46116,80.6210251,1,SPPU
+JSPM Hadapsar,ENTC,HU,OBC,Gender-Neutral,51338,78.1143775,1,SPPU
+JSPM Hadapsar,ENTC,HU,SC,Gender-Neutral,97786,50.2663166,1,SPPU
+JSPM Hadapsar,ENTC,HU,ST,Gender-Neutral,95363,52.2466614,1,SPPU
+JSPM Hadapsar,ENTC,HU,NT1,Gender-Neutral,80948,61.6397637,1,SPPU
+JSPM Hadapsar,ENTC,HU,NT2,Gender-Neutral,59430,74.0797795,1,SPPU
+JSPM Hadapsar,ENTC,HU,NT3,Gender-Neutral,56524,75.340282,1,SPPU
+JSPM Hadapsar,ENTC,HU,VJ,Gender-Neutral,80778,61.6881259,1,SPPU
+JSPM Hadapsar,Mechanical,HU,OPEN,Gender-Neutral,105545,44.0513989,1,SPPU
+JSPM Hadapsar,Mechanical,HU,OBC,Gender-Neutral,120611,30.0860456,1,SPPU
+JSPM Hadapsar,Mechanical,HU,SC,Gender-Neutral,141037,4.1114852,1,SPPU
+JSPM Hadapsar,Mechanical,HU,ST,Gender-Neutral,138071,9.0956868,1,SPPU
+JSPM Hadapsar,Mechanical,HU,NT1,Gender-Neutral,125334,25.3087578,1,SPPU
+JSPM Hadapsar,Mechanical,HU,NT2,Gender-Neutral,136894,11.0960605,1,SPPU
+JSPM Hadapsar,Mechanical,HU,NT3,Gender-Neutral,110476,39.9251777,1,SPPU
+JSPM Hadapsar,Mechanical,HU,VJ,Gender-Neutral,137710,9.3640105,1,SPPU
+PVPIT Bavdhan,CS,HU,OPEN,Gender-Neutral,28260,88.4658665,1,SPPU
+PVPIT Bavdhan,CS,HU,OBC,Gender-Neutral,30567,87.4150328,1,SPPU
+PVPIT Bavdhan,CS,HU,SC,Gender-Neutral,63393,71.8303504,1,SPPU
+PVPIT Bavdhan,CS,HU,ST,Gender-Neutral,122753,28.1052376,1,SPPU
+PVPIT Bavdhan,CS,HU,NT1,Gender-Neutral,57180,75.1687111,1,SPPU
+PVPIT Bavdhan,CS,HU,NT2,Gender-Neutral,33543,86.1075077,1,SPPU
+PVPIT Bavdhan,CS,HU,NT3,Gender-Neutral,32339,86.6965956,1,SPPU
+PVPIT Bavdhan,CS,HU,VJ,Gender-Neutral,54079,76.7693871,1,SPPU
+PVPIT Bavdhan,ENTC,HU,OPEN,Gender-Neutral,53654,76.8406961,1,SPPU
+PVPIT Bavdhan,ENTC,HU,OBC,Gender-Neutral,61098,73.2522683,1,SPPU
+PVPIT Bavdhan,ENTC,HU,SC,Gender-Neutral,100562,48.0589023,1,SPPU
+PVPIT Bavdhan,ENTC,HU,ST,Gender-Neutral,127368,22.9499823,1,SPPU
+PVPIT Bavdhan,ENTC,HU,NT1,Gender-Neutral,101979,46.8567142,1,SPPU
+PVPIT Bavdhan,ENTC,HU,NT2,Gender-Neutral,56094,75.867353,1,SPPU
+PVPIT Bavdhan,ENTC,HU,NT3,Gender-Neutral,85004,59.6839864,1,SPPU
+PVPIT Bavdhan,ENTC,HU,VJ,Gender-Neutral,116107,35.1726957,1,SPPU
+PVPIT Bavdhan,Mechanical,HU,OPEN,Gender-Neutral,134486,13.9344262,1,SPPU
+PVPIT Bavdhan,Mechanical,HU,OBC,Gender-Neutral,130139,19.9324831,1,SPPU
+PVPIT Bavdhan,Mechanical,HU,SC,Gender-Neutral,134913,13.3235504,1,SPPU
+PVPIT Bavdhan,Mechanical,HU,ST,Gender-Neutral,137077,10.6046914,1,SPPU
+PVPIT Bavdhan,Mechanical,HU,NT1,Gender-Neutral,136608,11.1520155,1,SPPU
+PVPIT Bavdhan,Mechanical,HU,NT2,Gender-Neutral,142406,1.791795,1,SPPU
+PVPIT Bavdhan,Mechanical,HU,NT3,Gender-Neutral,136744,11.119036,1,SPPU
+PVPIT Bavdhan,Mechanical,HU,VJ,Gender-Neutral,127541,22.8844711,1,SPPU
+PVPIT Bavdhan,Computer Science and Engineering(Data Science),HU,OPEN,Gender-Neutral,37347,84.4494892,1,SPPU
+PVPIT Bavdhan,Computer Science and Engineering(Data Science),HU,OBC,Gender-Neutral,39741,83.3890161,1,SPPU
+PVPIT Bavdhan,Computer Science and Engineering(Data Science),HU,SC,Gender-Neutral,88620,56.7405028,1,SPPU
+PVPIT Bavdhan,Computer Science and Engineering(Data Science),HU,ST,Gender-Neutral,94912,52.5567137,1,SPPU
+PVPIT Bavdhan,Computer Science and Engineering(Data Science),HU,NT1,Gender-Neutral,58869,74.1935484,1,SPPU
+PVPIT Bavdhan,Computer Science and Engineering(Data Science),HU,NT2,Gender-Neutral,74687,65.9622938,1,SPPU
+PVPIT Bavdhan,Computer Science and Engineering(Data Science),HU,NT3,Gender-Neutral,57821,75.1338688,1,SPPU
+PVPIT Bavdhan,Computer Science and Engineering(Data Science),HU,VJ,Gender-Neutral,103145,46.1690466,1,SPPU
+Indira College of engineering,CS,HU,OPEN,Gender-Neutral,28367,88.2852988,1,SPPU
+Indira College of engineering,CS,HU,OBC,Gender-Neutral,32175,90.1978271,1,SPPU
+Indira College of engineering,CS,HU,SC,Gender-Neutral,67105,69.7774101,1,SPPU
+Indira College of engineering,CS,HU,ST,Gender-Neutral,141191,3.9788785,1,SPPU
+Indira College of engineering,CS,HU,NT1,Gender-Neutral,42296,82.251586,1,SPPU
+Indira College of engineering,CS,HU,NT2,Gender-Neutral,34860,85.4752553,1,SPPU
+Indira College of engineering,CS,HU,NT3,Gender-Neutral,33836,86.039254,1,SPPU
+Indira College of engineering,CS,HU,VJ,Gender-Neutral,39141,83.5642755,1,SPPU
+Indira College of engineering,ENTC,HU,OPEN,Gender-Neutral,39663,83.4053417,1,SPPU
+Indira College of engineering,ENTC,HU,OBC,Gender-Neutral,48758,79.4628516,1,SPPU
+Indira College of engineering,ENTC,HU,SC,Gender-Neutral,83519,59.9249812,1,SPPU
+Indira College of engineering,ENTC,HU,ST,Gender-Neutral,100467,48.9725355,1,SPPU
+Indira College of engineering,ENTC,HU,NT1,Gender-Neutral,78438,63.6508999,1,SPPU
+Indira College of engineering,ENTC,HU,NT2,Gender-Neutral,104019,45.9472716,1,SPPU
+Indira College of engineering,ENTC,HU,NT3,Gender-Neutral,47378,79.8081214,1,SPPU
+Indira College of engineering,ENTC,HU,VJ,Gender-Neutral,111613,39.0377062,1,SPPU
+Indira College of engineering,Mechanical,HU,OPEN,Gender-Neutral,117895,32.8844711,1,SPPU
+Indira College of engineering,Mechanical,HU,OBC,Gender-Neutral,126595,23.8907594,1,SPPU
+Indira College of engineering,Mechanical,HU,SC,Gender-Neutral,135185,13.3162279,1,SPPU
+Indira College of engineering,Mechanical,HU,ST,Gender-Neutral,123138,27.6545345,1,SPPU
+Indira College of engineering,Mechanical,HU,NT1,Gender-Neutral,139923,6.1669865,1,SPPU
+Indira College of engineering,Mechanical,HU,NT2,Gender-Neutral,141670,2.9971739,1,SPPU
+Indira College of engineering,Mechanical,HU,NT3,Gender-Neutral,137646,9.4916141,1,SPPU
+Indira College of engineering,Mechanical,HU,VJ,Gender-Neutral,133449,15.6886806,1,SPPU
+Indira College of engineering,AIDS,HU,OPEN,Gender-Neutral,32479,86.6370673,1,SPPU
+Indira College of engineering,AIDS,HU,OBC,Gender-Neutral,35925,85.1782223,1,SPPU
+Indira College of engineering,AIDS,HU,SC,Gender-Neutral,69065,69.0354573,1,SPPU
+Indira College of engineering,AIDS,HU,ST,Gender-Neutral,62180,72.6119403,1,SPPU
+Indira College of engineering,AIDS,HU,NT1,Gender-Neutral,56402,75.3496766,1,SPPU
+Indira College of engineering,AIDS,HU,NT2,Gender-Neutral,37097,84.4681938,1,SPPU
+Indira College of engineering,AIDS,HU,NT3,Gender-Neutral,42127,82.251586,1,SPPU
+Indira College of engineering,AIDS,HU,VJ,Gender-Neutral,100360,48.9725355,1,SPPU
+Nutan Maharashtra Institute of Eng,CS,HU,OPEN,Gender-Neutral,23321,90.5702023,1,SPPU
+Nutan Maharashtra Institute of Eng,CS,HU,OBC,Gender-Neutral,24965,89.9583318,1,SPPU
+Nutan Maharashtra Institute of Eng,CS,HU,SC,Gender-Neutral,53282,76.9213416,1,SPPU
+Nutan Maharashtra Institute of Eng,CS,HU,ST,Gender-Neutral,104227,45.8483896,1,SPPU
+Nutan Maharashtra Institute of Eng,CS,HU,NT1,Gender-Neutral,29376,88.0695638,1,SPPU
+Nutan Maharashtra Institute of Eng,CS,HU,NT2,Gender-Neutral,28159,88.5133125,1,SPPU
+Nutan Maharashtra Institute of Eng,CS,HU,NT3,Gender-Neutral,25810,89.4673668,1,SPPU
+Nutan Maharashtra Institute of Eng,CS,HU,VJ,Gender-Neutral,49885,78.5775598,1,SPPU
+Nutan Maharashtra Institute of Eng,IT,HU,OPEN,Gender-Neutral,25402,89.6939217,1,SPPU
+Nutan Maharashtra Institute of Eng,IT,HU,OBC,Gender-Neutral,26618,89.1792071,1,SPPU
+Nutan Maharashtra Institute of Eng,IT,HU,SC,Gender-Neutral,63835,71.6671025,1,SPPU
+Nutan Maharashtra Institute of Eng,IT,HU,ST,Gender-Neutral,35373,85.3410413,1,SPPU
+Nutan Maharashtra Institute of Eng,IT,HU,NT1,Gender-Neutral,45049,81.0174211,1,SPPU
+Nutan Maharashtra Institute of Eng,IT,HU,NT2,Gender-Neutral,30472,87.4817577,1,SPPU
+Nutan Maharashtra Institute of Eng,IT,HU,NT3,Gender-Neutral,31986,86.8476463,1,SPPU
+Nutan Maharashtra Institute of Eng,IT,HU,VJ,Gender-Neutral,25102,89.8061335,1,SPPU
+Nutan Maharashtra Institute of Eng,ENTC,HU,OPEN,Gender-Neutral,36573,84.740951,1,SPPU
+Nutan Maharashtra Institute of Eng,ENTC,HU,OBC,Gender-Neutral,46335,80.4126032,1,SPPU
+Nutan Maharashtra Institute of Eng,ENTC,HU,SC,Gender-Neutral,93041,53.8156961,1,SPPU
+Nutan Maharashtra Institute of Eng,ENTC,HU,ST,Gender-Neutral,105499,44.0513989,1,SPPU
+Nutan Maharashtra Institute of Eng,ENTC,HU,NT1,Gender-Neutral,66030,70.6180504,1,SPPU
+Nutan Maharashtra Institute of Eng,ENTC,HU,NT2,Gender-Neutral,50256,78.4161664,1,SPPU
+Nutan Maharashtra Institute of Eng,ENTC,HU,NT3,Gender-Neutral,58779,74.1935484,1,SPPU
+Nutan Maharashtra Institute of Eng,ENTC,HU,VJ,Gender-Neutral,99091,49.4761567,1,SPPU
+Nutan Maharashtra Institute of Eng,Mechanical,HU,OPEN,Gender-Neutral,92567,54.0043616,1,SPPU
+Nutan Maharashtra Institute of Eng,Mechanical,HU,OBC,Gender-Neutral,127582,22.8844711,1,SPPU
+Nutan Maharashtra Institute of Eng,Mechanical,HU,SC,Gender-Neutral,125582,25.2074392,1,SPPU
+Nutan Maharashtra Institute of Eng,Mechanical,HU,ST,Gender-Neutral,112373,38.9045575,1,SPPU
+Nutan Maharashtra Institute of Eng,Mechanical,HU,NT1,Gender-Neutral,99450,49.4761567,1,SPPU
+Nutan Maharashtra Institute of Eng,Mechanical,HU,NT2,Gender-Neutral,112131,38.992574,1,SPPU
+Nutan Maharashtra Institute of Eng,Mechanical,HU,NT3,Gender-Neutral,137000,10.7415831,1,SPPU
+Nutan Maharashtra Institute of Eng,Mechanical,HU,VJ,Gender-Neutral,123561,27.145045,1,SPPU
+JSPM Narhe Technical Campus,CS,HU,OPEN,Gender-Neutral,24929,89.9583318,1,SPPU
+JSPM Narhe Technical Campus,CS,HU,OBC,Gender-Neutral,27426,88.7938441,1,SPPU
+JSPM Narhe Technical Campus,CS,HU,SC,Gender-Neutral,61103,73.2522683,1,SPPU
+JSPM Narhe Technical Campus,CS,HU,ST,Gender-Neutral,109575,40.6521983,1,SPPU
+JSPM Narhe Technical Campus,CS,HU,NT1,Gender-Neutral,48091,79.7413145,1,SPPU
+JSPM Narhe Technical Campus,CS,HU,NT2,Gender-Neutral,31569,86.9739855,1,SPPU
+JSPM Narhe Technical Campus,CS,HU,NT3,Gender-Neutral,26546,89.1792071,1,SPPU
+JSPM Narhe Technical Campus,CS,HU,VJ,Gender-Neutral,54766,76.6367377,1,SPPU
+JSPM Narhe Technical Campus,AIDS,HU,OPEN,Gender-Neutral,31299,87.0718315,1,SPPU
+JSPM Narhe Technical Campus,AIDS,HU,OBC,Gender-Neutral,35296,85.3534944,1,SPPU
+JSPM Narhe Technical Campus,AIDS,HU,SC,Gender-Neutral,76389,64.4805659,1,SPPU
+JSPM Narhe Technical Campus,AIDS,HU,ST,Gender-Neutral,32384,86.6965956,1,SPPU
+JSPM Narhe Technical Campus,AIDS,HU,NT1,Gender-Neutral,51078,78.3308876,1,SPPU
+JSPM Narhe Technical Campus,AIDS,HU,NT2,Gender-Neutral,41784,82.3346823,1,SPPU
+JSPM Narhe Technical Campus,AIDS,HU,NT3,Gender-Neutral,36115,85.1537884,1,SPPU
+JSPM Narhe Technical Campus,AIDS,HU,VJ,Gender-Neutral,103401,45.9664342,1,SPPU
+JSPM Narhe Technical Campus,ENTC,HU,OPEN,Gender-Neutral,53442,76.8406961,1,SPPU
+JSPM Narhe Technical Campus,ENTC,HU,OBC,Gender-Neutral,56555,75.340282,1,SPPU
+JSPM Narhe Technical Campus,ENTC,HU,SC,Gender-Neutral,108212,42.5530244,1,SPPU
+JSPM Narhe Technical Campus,ENTC,HU,ST,Gender-Neutral,99022,49.5548073,1,SPPU
+JSPM Narhe Technical Campus,ENTC,HU,NT1,Gender-Neutral,82367,61.2935921,1,SPPU
+JSPM Narhe Technical Campus,ENTC,HU,NT2,Gender-Neutral,55922,75.867353,1,SPPU
+JSPM Narhe Technical Campus,ENTC,HU,NT3,Gender-Neutral,66041,70.6180504,1,SPPU
+JSPM Narhe Technical Campus,ENTC,HU,VJ,Gender-Neutral,58666,74.4658288,1,SPPU
+BSCOER,CS,HU,OPEN,Gender-Neutral,36060,85.1537884,1,SPPU
+BSCOER,CS,HU,OBC,Gender-Neutral,39115,83.5642755,1,SPPU
+BSCOER,CS,HU,SC,Gender-Neutral,85084,58.8704519,1,SPPU
+BSCOER,CS,HU,ST,Gender-Neutral,74947,65.4207881,1,SPPU
+BSCOER,CS,HU,NT1,Gender-Neutral,62328,72.6119403,1,SPPU
+BSCOER,CS,HU,NT2,Gender-Neutral,39573,83.4053417,1,SPPU
+BSCOER,CS,HU,NT3,Gender-Neutral,41208,82.540133,1,SPPU
+BSCOER,CS,HU,VJ,Gender-Neutral,79693,62.7344336,1,SPPU
+BSCOER,Electrical,HU,OPEN,Gender-Neutral,110831,39.9066862,1,SPPU
+BSCOER,Electrical,HU,OBC,Gender-Neutral,133921,15.1933187,1,SPPU
+BSCOER,Electrical,HU,SC,Gender-Neutral,140743,4.8612936,1,SPPU
+BSCOER,Electrical,HU,ST,Gender-Neutral,133756,15.5096512,1,SPPU
+BSCOER,Electrical,HU,NT1,Gender-Neutral,130360,19.1048437,1,SPPU
+BSCOER,Electrical,HU,NT2,Gender-Neutral,118427,32.4663078,1,SPPU
+BSCOER,Electrical,HU,NT3,Gender-Neutral,92926,53.8156961,1,SPPU
+BSCOER,Electrical,HU,VJ,Gender-Neutral,134272,14.4711178,1,SPPU
+BSCOER,ENTC,HU,OPEN,Gender-Neutral,66383,70.5106049,1,SPPU
+BSCOER,ENTC,HU,OBC,Gender-Neutral,69472,68.9337823,1,SPPU
+BSCOER,ENTC,HU,SC,Gender-Neutral,116084,35.1726957,1,SPPU
+BSCOER,ENTC,HU,ST,Gender-Neutral,120296,30.5890703,1,SPPU
+BSCOER,ENTC,HU,NT1,Gender-Neutral,107153,43.1162283,1,SPPU
+BSCOER,ENTC,HU,NT2,Gender-Neutral,73160,66.6716379,1,SPPU
+BSCOER,ENTC,HU,NT3,Gender-Neutral,93074,53.8156961,1,SPPU
+BSCOER,ENTC,HU,VJ,Gender-Neutral,67495,69.6572694,1,SPPU
+Bhivarabai Sawant IOT,CS,HU,OPEN,Gender-Neutral,31312,87.0718315,1,SPPU
+Bhivarabai Sawant IOT,CS,HU,OBC,Gender-Neutral,34999,85.4445126,1,SPPU
+Bhivarabai Sawant IOT,CS,HU,SC,Gender-Neutral,60838,73.2701208,1,SPPU
+Bhivarabai Sawant IOT,CS,HU,ST,Gender-Neutral,127459,22.8844711,1,SPPU
+Bhivarabai Sawant IOT,CS,HU,NT1,Gender-Neutral,57465,75.1476841,1,SPPU
+Bhivarabai Sawant IOT,CS,HU,NT2,Gender-Neutral,38755,83.878077,1,SPPU
+Bhivarabai Sawant IOT,CS,HU,NT3,Gender-Neutral,39120,83.5642755,1,SPPU
+Bhivarabai Sawant IOT,CS,HU,VJ,Gender-Neutral,67472,69.6572694,1,SPPU
+Bhivarabai Sawant IOT,IT,HU,OPEN,Gender-Neutral,36501,84.9532361,1,SPPU
+Bhivarabai Sawant IOT,IT,HU,OBC,Gender-Neutral,39187,83.5642755,1,SPPU
+Bhivarabai Sawant IOT,IT,HU,SC,Gender-Neutral,82860,60.8798115,1,SPPU
+Bhivarabai Sawant IOT,IT,HU,ST,Gender-Neutral,88021,56.982253,1,SPPU
+Bhivarabai Sawant IOT,IT,HU,NT1,Gender-Neutral,63943,71.6354089,1,SPPU
+Bhivarabai Sawant IOT,IT,HU,NT2,Gender-Neutral,44843,81.0352521,1,SPPU
+Bhivarabai Sawant IOT,IT,HU,NT3,Gender-Neutral,34697,85.6187666,1,SPPU
+Bhivarabai Sawant IOT,IT,HU,VJ,Gender-Neutral,58587,74.4658288,1,SPPU
+Bhivarabai Sawant IOT,Electrical,HU,OPEN,Gender-Neutral,101656,47.3478734,1,SPPU
+Bhivarabai Sawant IOT,Electrical,HU,OBC,Gender-Neutral,114801,36.1619626,1,SPPU
+Bhivarabai Sawant IOT,Electrical,HU,SC,Gender-Neutral,126978,23.5805396,1,SPPU
+Bhivarabai Sawant IOT,Electrical,HU,ST,Gender-Neutral,127742,22.6551453,1,SPPU
+Bhivarabai Sawant IOT,Electrical,HU,NT1,Gender-Neutral,134999,13.3235504,1,SPPU
+Bhivarabai Sawant IOT,Electrical,HU,NT2,Gender-Neutral,107631,42.5955447,1,SPPU
+Bhivarabai Sawant IOT,Electrical,HU,NT3,Gender-Neutral,115295,35.624509,1,SPPU
+Bhivarabai Sawant IOT,Electrical,HU,VJ,Gender-Neutral,87505,58.0840122,1,SPPU
+Bhivarabai Sawant IOT,ENTC,HU,OPEN,Gender-Neutral,55650,75.8958975,1,SPPU
+Bhivarabai Sawant IOT,ENTC,HU,OBC,Gender-Neutral,110550,39.9251777,1,SPPU
+Bhivarabai Sawant IOT,ENTC,HU,SC,Gender-Neutral,110550,39.9251777,1,SPPU
+Bhivarabai Sawant IOT,ENTC,HU,ST,Gender-Neutral,58226,74.8671904,1,SPPU
+Bhivarabai Sawant IOT,ENTC,HU,NT1,Gender-Neutral,95057,52.5521047,1,SPPU
+Bhivarabai Sawant IOT,ENTC,HU,NT2,Gender-Neutral,62615,72.394012,1,SPPU
+Bhivarabai Sawant IOT,ENTC,HU,NT3,Gender-Neutral,65731,71.0587355,1,SPPU
+Bhivarabai Sawant IOT,ENTC,HU,VJ,Gender-Neutral,125279,25.3087578,1,SPPU
+Dhole Patil College of engineering,CS,HU,OPEN,Gender-Neutral,35260,85.3534944,1,SPPU
+Dhole Patil College of engineering,CS,HU,OBC,Gender-Neutral,39122,83.5642755,1,SPPU
+Dhole Patil College of engineering,CS,HU,SC,Gender-Neutral,65938,70.6180504,1,SPPU
+Dhole Patil College of engineering,CS,HU,ST,Gender-Neutral,103239,46.1690466,1,SPPU
+Dhole Patil College of engineering,CS,HU,NT1,Gender-Neutral,31049,87.2266503,1,SPPU
+Dhole Patil College of engineering,CS,HU,NT2,Gender-Neutral,44113,81.2345291,1,SPPU
+Dhole Patil College of engineering,CS,HU,NT3,Gender-Neutral,48723,79.4628516,1,SPPU
+Dhole Patil College of engineering,CS,HU,VJ,Gender-Neutral,69198,68.9337823,1,SPPU
+Dhole Patil College of engineering,IT,HU,OPEN,Gender-Neutral,38600,84.0516274,1,SPPU
+Dhole Patil College of engineering,IT,HU,OBC,Gender-Neutral,40552,83.2373857,1,SPPU
+Dhole Patil College of engineering,IT,HU,SC,Gender-Neutral,70069,68.401414,1,SPPU
+Dhole Patil College of engineering,IT,HU,ST,Gender-Neutral,88891,56.7366842,1,SPPU
+Dhole Patil College of engineering,IT,HU,NT1,Gender-Neutral,59749,73.642653,1,SPPU
+Dhole Patil College of engineering,IT,HU,NT2,Gender-Neutral,42215,82.251586,1,SPPU
+Dhole Patil College of engineering,IT,HU,NT3,Gender-Neutral,67834,69.6572694,1,SPPU
+Dhole Patil College of engineering,IT,HU,VJ,Gender-Neutral,53226,76.9213416,1,SPPU
+Dhole Patil College of engineering,ENTC,HU,OPEN,Gender-Neutral,60373,73.4109953,1,SPPU
+Dhole Patil College of engineering,ENTC,HU,OBC,Gender-Neutral,68649,69.2172491,1,SPPU
+Dhole Patil College of engineering,ENTC,HU,SC,Gender-Neutral,98902,49.5548073,1,SPPU
+Dhole Patil College of engineering,ENTC,HU,ST,Gender-Neutral,98603,49.6143282,1,SPPU
+Dhole Patil College of engineering,ENTC,HU,NT1,Gender-Neutral,90815,55.4490884,1,SPPU
+Dhole Patil College of engineering,ENTC,HU,NT2,Gender-Neutral,78746,63.3857031,1,SPPU
+Dhole Patil College of engineering,ENTC,HU,NT3,Gender-Neutral,65767,71.0587355,1,SPPU
+Dhole Patil College of engineering,ENTC,HU,VJ,Gender-Neutral,126900,23.5805396,1,SPPU
+Zeal College of Eng Narhe,Robotics and Automation,HU,OPEN,Gender-Neutral,65729,71.0587355,1,SPPU
+Zeal College of Eng Narhe,Robotics and Automation,HU,OBC,Gender-Neutral,78916,63.3857031,1,SPPU
+Zeal College of Eng Narhe,Robotics and Automation,HU,SC,Gender-Neutral,116065,35.1726957,1,SPPU
+Zeal College of Eng Narhe,Robotics and Automation,HU,ST,Gender-Neutral,133294,15.9127414,1,SPPU
+Zeal College of Eng Narhe,Robotics and Automation,HU,NT1,Gender-Neutral,88487,56.7405028,1,SPPU
+Zeal College of Eng Narhe,Robotics and Automation,HU,NT2,Gender-Neutral,81598,61.4332053,1,SPPU
+Zeal College of Eng Narhe,Robotics and Automation,HU,NT3,Gender-Neutral,95623,52.2466614,1,SPPU
+Zeal College of Eng Narhe,Robotics and Automation,HU,VJ,Gender-Neutral,122565,28.3793174,1,SPPU
+Zeal College of Eng Narhe,CS,HU,OPEN,Gender-Neutral,34603,85.6187666,1,SPPU
+Zeal College of Eng Narhe,CS,HU,OBC,Gender-Neutral,39354,83.4300164,1,SPPU
+Zeal College of Eng Narhe,CS,HU,SC,Gender-Neutral,81749,61.432847,1,SPPU
+Zeal College of Eng Narhe,CS,HU,ST,Gender-Neutral,139727,6.2955526,1,SPPU
+Zeal College of Eng Narhe,CS,HU,NT1,Gender-Neutral,61595,73.1851907,1,SPPU
+Zeal College of Eng Narhe,CS,HU,NT2,Gender-Neutral,41724,82.3346823,1,SPPU
+Zeal College of Eng Narhe,CS,HU,NT3,Gender-Neutral,38134,84.2081516,1,SPPU
+Zeal College of Eng Narhe,CS,HU,VJ,Gender-Neutral,65256,71.1698646,1,SPPU
+Zeal College of Eng Narhe,IT,HU,OPEN,Gender-Neutral,39276,83.4300164,1,SPPU
+Zeal College of Eng Narhe,IT,HU,OBC,Gender-Neutral,41010,82.869523,1,SPPU
+Zeal College of Eng Narhe,IT,HU,SC,Gender-Neutral,90893,55.4490884,1,SPPU
+Zeal College of Eng Narhe,IT,HU,ST,Gender-Neutral,88646,56.7405028,1,SPPU
+Zeal College of Eng Narhe,IT,HU,NT1,Gender-Neutral,64161,71.6354089,1,SPPU
+Zeal College of Eng Narhe,IT,HU,NT2,Gender-Neutral,41911,82.3107244,1,SPPU
+Zeal College of Eng Narhe,IT,HU,NT3,Gender-Neutral,38258,84.2081516,1,SPPU
+Zeal College of Eng Narhe,IT,HU,VJ,Gender-Neutral,122603,28.3793174,1,SPPU
+Zeal College of Eng Narhe,Electrical,HU,OPEN,Gender-Neutral,86880,58.1195238,1,SPPU
+Zeal College of Eng Narhe,Electrical,HU,OBC,Gender-Neutral,103275,46.1690466,1,SPPU
+Zeal College of Eng Narhe,Electrical,HU,SC,Gender-Neutral,118651,32.4663078,1,SPPU
+Zeal College of Eng Narhe,Electrical,HU,ST,Gender-Neutral,135284,13.3162279,1,SPPU
+Zeal College of Eng Narhe,Electrical,HU,NT1,Gender-Neutral,121272,29.4111028,1,SPPU
+Zeal College of Eng Narhe,Electrical,HU,NT2,Gender-Neutral,97597,50.2663166,1,SPPU
+Zeal College of Eng Narhe,Electrical,HU,NT3,Gender-Neutral,90463,55.7163295,1,SPPU
+Zeal College of Eng Narhe,Electrical,HU,VJ,Gender-Neutral,91384,55.2709127,1,SPPU
+Zeal College of Eng Narhe,ENTC,HU,OPEN,Gender-Neutral,63996,71.6354089,1,SPPU
+Zeal College of Eng Narhe,ENTC,HU,OBC,Gender-Neutral,67652,69.6572694,1,SPPU
+Zeal College of Eng Narhe,ENTC,HU,SC,Gender-Neutral,123009,27.6545345,1,SPPU
+Zeal College of Eng Narhe,ENTC,HU,ST,Gender-Neutral,102958,46.4499379,1,SPPU
+Zeal College of Eng Narhe,ENTC,HU,NT1,Gender-Neutral,80340,62.3996115,1,SPPU
+Zeal College of Eng Narhe,ENTC,HU,NT2,Gender-Neutral,69078,69.0354573,1,SPPU
+Zeal College of Eng Narhe,ENTC,HU,NT3,Gender-Neutral,82715,60.9799222,1,SPPU
+Zeal College of Eng Narhe,ENTC,HU,VJ,Gender-Neutral,124479,26.0539861,1,SPPU
+Zeal College of Eng Narhe,Mechanical,HU,OPEN,Gender-Neutral,115058,36.029881,1,SPPU
+Zeal College of Eng Narhe,Mechanical,HU,OBC,Gender-Neutral,142083,2.3386764,1,SPPU
+Zeal College of Eng Narhe,Mechanical,HU,SC,Gender-Neutral,140992,4.1911023,1,SPPU
+Zeal College of Eng Narhe,Mechanical,HU,ST,Gender-Neutral,142054,2.3386764,1,SPPU
+Zeal College of Eng Narhe,Mechanical,HU,NT1,Gender-Neutral,123168,27.6545345,1,SPPU
+Zeal College of Eng Narhe,Mechanical,HU,NT2,Gender-Neutral,133399,15.6886806,1,SPPU
+Zeal College of Eng Narhe,Mechanical,HU,NT3,Gender-Neutral,117514,33.3408586,1,SPPU
+Zeal College of Eng Narhe,Mechanical,HU,VJ,Gender-Neutral,141105,4.0117818,1,SPPU
+Zeal College of Eng Narhe,Electronics and Computer,HU,OPEN,Gender-Neutral,58332,74.8671904,1,SPPU
+Zeal College of Eng Narhe,Electronics and Computer,HU,OBC,Gender-Neutral,67428,69.6924231,1,SPPU
+Zeal College of Eng Narhe,Electronics and Computer,HU,SC,Gender-Neutral,114603,36.3578395,1,SPPU
+Zeal College of Eng Narhe,Electronics and Computer,HU,ST,Gender-Neutral,69945,68.401414,1,SPPU
+Zeal College of Eng Narhe,Electronics and Computer,HU,NT1,Gender-Neutral,72671,66.9527897,1,SPPU
+Zeal College of Eng Narhe,Electronics and Computer,HU,NT2,Gender-Neutral,64195,71.4000828,1,SPPU
+Zeal College of Eng Narhe,Electronics and Computer,HU,NT3,Gender-Neutral,79266,62.7898492,1,SPPU
+Zeal College of Eng Narhe,Electronics and Computer,HU,VJ,Gender-Neutral,114197,36.5842646,1,SPPU
+Zeal College of Eng Narhe,AIML,HU,OPEN,Gender-Neutral,42665,82.2034564,1,SPPU
+Zeal College of Eng Narhe,AIML,HU,OBC,Gender-Neutral,47315,79.8081214,1,SPPU
+Zeal College of Eng Narhe,AIML,HU,SC,Gender-Neutral,85505,58.7429854,1,SPPU
+Zeal College of Eng Narhe,AIML,HU,ST,Gender-Neutral,42031,82.3107244,1,SPPU
+Zeal College of Eng Narhe,AIML,HU,NT1,Gender-Neutral,118779,32.3660798,1,SPPU
+Zeal College of Eng Narhe,AIML,HU,NT2,Gender-Neutral,42814,82.1650299,1,SPPU
+Zeal College of Eng Narhe,AIML,HU,NT3,Gender-Neutral,45830,80.7328826,1,SPPU
+Zeal College of Eng Narhe,AIML,HU,VJ,Gender-Neutral,52348,77.7994669,1,SPPU
+Zeal College of Eng Narhe,AIDS,HU,OPEN,Gender-Neutral,38050,84.216054,1,SPPU
+Zeal College of Eng Narhe,AIDS,HU,OBC,Gender-Neutral,42416,82.2266135,1,SPPU
+Zeal College of Eng Narhe,AIDS,HU,SC,Gender-Neutral,68985,69.0354573,1,SPPU
+Zeal College of Eng Narhe,AIDS,HU,ST,Gender-Neutral,64061,71.6354089,1,SPPU
+Zeal College of Eng Narhe,AIDS,HU,NT1,Gender-Neutral,34770,85.4752553,1,SPPU
+Zeal College of Eng Narhe,AIDS,HU,NT2,Gender-Neutral,47440,79.7907966,1,SPPU
+Zeal College of Eng Narhe,AIDS,HU,NT3,Gender-Neutral,45312,80.9858625,1,SPPU
+Zeal College of Eng Narhe,AIDS,HU,VJ,Gender-Neutral,89964,55.8997381,1,SPPU
+Anantrao Pawar COE,CS,HU,OPEN,Gender-Neutral,37466,84.4304792,1,SPPU
+Anantrao Pawar COE,CS,HU,OBC,Gender-Neutral,41096,82.869523,1,SPPU
+Anantrao Pawar COE,CS,HU,SC,Gender-Neutral,69426,68.9337823,1,SPPU
+Anantrao Pawar COE,CS,HU,ST,Gender-Neutral,141966,2.5353268,1,SPPU
+Anantrao Pawar COE,CS,HU,NT1,Gender-Neutral,41065,82.869523,1,SPPU
+Anantrao Pawar COE,CS,HU,NT2,Gender-Neutral,49257,79.2648162,1,SPPU
+Anantrao Pawar COE,CS,HU,NT3,Gender-Neutral,47463,79.7907966,1,SPPU
+Anantrao Pawar COE,CS,HU,VJ,Gender-Neutral,87414,58.0840122,1,SPPU
+Anantrao Pawar COE,IT,HU,OPEN,Gender-Neutral,42868,82.1650299,1,SPPU
+Anantrao Pawar COE,IT,HU,OBC,Gender-Neutral,45680,80.8641005,1,SPPU
+Anantrao Pawar COE,IT,HU,SC,Gender-Neutral,81701,61.432847,1,SPPU
+Anantrao Pawar COE,IT,HU,ST,Gender-Neutral,103376,45.9664342,1,SPPU
+Anantrao Pawar COE,IT,HU,NT1,Gender-Neutral,78646,63.6508999,1,SPPU
+Anantrao Pawar COE,IT,HU,NT2,Gender-Neutral,47863,79.7807688,1,SPPU
+Anantrao Pawar COE,IT,HU,NT3,Gender-Neutral,48010,79.7413145,1,SPPU
+Anantrao Pawar COE,IT,HU,VJ,Gender-Neutral,57327,75.1476841,1,SPPU
+Anantrao Pawar COE,ENTC,HU,OPEN,Gender-Neutral,69071,69.0354573,1,SPPU
+Anantrao Pawar COE,ENTC,HU,OBC,Gender-Neutral,72417,66.9527897,1,SPPU
+Anantrao Pawar COE,ENTC,HU,SC,Gender-Neutral,113506,37.1297299,1,SPPU
+Anantrao Pawar COE,ENTC,HU,ST,Gender-Neutral,115207,36.029881,1,SPPU
+Anantrao Pawar COE,ENTC,HU,NT1,Gender-Neutral,93415,53.6496624,1,SPPU
+Anantrao Pawar COE,ENTC,HU,NT2,Gender-Neutral,71918,67.1534217,1,SPPU
+Anantrao Pawar COE,ENTC,HU,NT3,Gender-Neutral,99302,49.4761567,1,SPPU
+Anantrao Pawar COE,ENTC,HU,VJ,Gender-Neutral,113544,37.1297299,1,SPPU
+Anantrao Pawar COE,AIDS,HU,OPEN,Gender-Neutral,41289,82.540133,1,SPPU
+Anantrao Pawar COE,AIDS,HU,OBC,Gender-Neutral,46581,80.2375547,1,SPPU
+Anantrao Pawar COE,AIDS,HU,SC,Gender-Neutral,85795,58.7124464,1,SPPU
+Anantrao Pawar COE,AIDS,HU,ST,Gender-Neutral,94379,52.7422372,1,SPPU
+Anantrao Pawar COE,AIDS,HU,NT1,Gender-Neutral,58185,74.8671904,1,SPPU
+Anantrao Pawar COE,AIDS,HU,NT2,Gender-Neutral,77567,64.0952985,1,SPPU
+Anantrao Pawar COE,AIDS,HU,NT3,Gender-Neutral,54359,76.7173434,1,SPPU
+Anantrao Pawar COE,AIDS,HU,VJ,Gender-Neutral,49142,79.2648162,1,SPPU
+Sinhgad Institute Lonavala,CS,HU,OPEN,Gender-Neutral,34027,86.0109616,1,SPPU
+Sinhgad Institute Lonavala,CS,HU,OBC,Gender-Neutral,37688,84.3950599,1,SPPU
+Sinhgad Institute Lonavala,CS,HU,SC,Gender-Neutral,75818,65.0367935,1,SPPU
+Sinhgad Institute Lonavala,CS,HU,ST,Gender-Neutral,131561,18.1280678,1,SPPU
+Sinhgad Institute Lonavala,CS,HU,NT1,Gender-Neutral,62704,72.3082536,1,SPPU
+Sinhgad Institute Lonavala,CS,HU,NT2,Gender-Neutral,41991,82.3107244,1,SPPU
+Sinhgad Institute Lonavala,CS,HU,NT3,Gender-Neutral,38484,84.0516274,1,SPPU
+Sinhgad Institute Lonavala,CS,HU,VJ,Gender-Neutral,50606,78.3430016,1,SPPU
+Sinhgad Institute Lonavala,IT,HU,OPEN,Gender-Neutral,38118,84.2081516,1,SPPU
+Sinhgad Institute Lonavala,IT,HU,OBC,Gender-Neutral,42372,82.2266135,1,SPPU
+Sinhgad Institute Lonavala,IT,HU,SC,Gender-Neutral,72636,66.9527897,1,SPPU
+Sinhgad Institute Lonavala,IT,HU,ST,Gender-Neutral,105383,44.0513989,1,SPPU
+Sinhgad Institute Lonavala,IT,HU,NT1,Gender-Neutral,70683,67.9544349,1,SPPU
+Sinhgad Institute Lonavala,IT,HU,NT2,Gender-Neutral,41044,82.869523,1,SPPU
+Sinhgad Institute Lonavala,IT,HU,NT3,Gender-Neutral,43856,81.4853713,1,SPPU
+Sinhgad Institute Lonavala,IT,HU,VJ,Gender-Neutral,55655,75.8958975,1,SPPU
+Sinhgad Institute Lonavala,Electrical,HU,OPEN,Gender-Neutral,99622,49.2213366,1,SPPU
+Sinhgad Institute Lonavala,Electrical,HU,OBC,Gender-Neutral,111338,39.4392454,1,SPPU
+Sinhgad Institute Lonavala,Electrical,HU,SC,Gender-Neutral,135359,13.224841,1,SPPU
+Sinhgad Institute Lonavala,Electrical,HU,ST,Gender-Neutral,113766,36.6068088,1,SPPU
+Sinhgad Institute Lonavala,Electrical,HU,NT1,Gender-Neutral,135326,13.224841,1,SPPU
+Sinhgad Institute Lonavala,Electrical,HU,NT2,Gender-Neutral,101148,47.6387427,1,SPPU
+Sinhgad Institute Lonavala,Electrical,HU,NT3,Gender-Neutral,67539,69.6572694,1,SPPU
+Sinhgad Institute Lonavala,Electrical,HU,VJ,Gender-Neutral,93043,53.8156961,1,SPPU
+Sinhgad Institute Lonavala,ENTC,HU,OPEN,Gender-Neutral,65221,71.1698646,1,SPPU
+Sinhgad Institute Lonavala,ENTC,HU,OBC,Gender-Neutral,70021,68.401414,1,SPPU
+Sinhgad Institute Lonavala,ENTC,HU,SC,Gender-Neutral,135321,13.3162279,1,SPPU
+Sinhgad Institute Lonavala,ENTC,HU,ST,Gender-Neutral,137406,9.7383065,1,SPPU
+Sinhgad Institute Lonavala,ENTC,HU,NT1,Gender-Neutral,91493,55.2709127,1,SPPU
+Sinhgad Institute Lonavala,ENTC,HU,NT2,Gender-Neutral,69064,69.0354573,1,SPPU
+Sinhgad Institute Lonavala,ENTC,HU,NT3,Gender-Neutral,81417,61.4332053,1,SPPU
+Sinhgad Institute Lonavala,ENTC,HU,VJ,Gender-Neutral,108762,42.2969628,1,SPPU
+SKNSITS Lonavla,CS,HU,OPEN,Gender-Neutral,42587,82.2034564,1,SPPU
+SKNSITS Lonavla,CS,HU,OBC,Gender-Neutral,46661,80.2375547,1,SPPU
+SKNSITS Lonavla,CS,HU,SC,Gender-Neutral,86098,58.7124464,1,SPPU
+SKNSITS Lonavla,CS,HU,ST,Gender-Neutral,42620,82.2034564,1,SPPU
+SKNSITS Lonavla,CS,HU,NT1,Gender-Neutral,80467,62.3996115,1,SPPU
+SKNSITS Lonavla,CS,HU,NT2,Gender-Neutral,52138,77.7994669,1,SPPU
+SKNSITS Lonavla,CS,HU,NT3,Gender-Neutral,46634,80.2375547,1,SPPU
+SKNSITS Lonavla,CS,HU,VJ,Gender-Neutral,48573,79.520817,1,SPPU
+SKNSITS Lonavla,IT,HU,OPEN,Gender-Neutral,47055,80.0408747,1,SPPU
+SKNSITS Lonavla,IT,HU,OBC,Gender-Neutral,49944,78.5775598,1,SPPU
+SKNSITS Lonavla,IT,HU,SC,Gender-Neutral,103526,45.9664342,1,SPPU
+SKNSITS Lonavla,IT,HU,ST,Gender-Neutral,46549,80.2375547,1,SPPU
+SKNSITS Lonavla,IT,HU,NT1,Gender-Neutral,60191,73.4246062,1,SPPU
+SKNSITS Lonavla,IT,HU,NT2,Gender-Neutral,63287,71.8303504,1,SPPU
+SKNSITS Lonavla,IT,HU,NT3,Gender-Neutral,49441,78.8754662,1,SPPU
+SKNSITS Lonavla,IT,HU,VJ,Gender-Neutral,89652,55.9130075,1,SPPU
+Genba Sopanrao Moze COE,CS,HU,OPEN,Gender-Neutral,43959,81.4853713,1,SPPU
+Genba Sopanrao Moze COE,CS,HU,OBC,Gender-Neutral,51596,78.067557,1,SPPU
+Genba Sopanrao Moze COE,CS,HU,SC,Gender-Neutral,79281,62.7898492,1,SPPU
+Genba Sopanrao Moze COE,CS,HU,ST,Gender-Neutral,72703,66.8171727,1,SPPU
+Genba Sopanrao Moze COE,CS,HU,NT1,Gender-Neutral,79572,62.7344336,1,SPPU
+Genba Sopanrao Moze COE,CS,HU,NT2,Gender-Neutral,52442,77.4241933,1,SPPU
+Genba Sopanrao Moze COE,CS,HU,NT3,Gender-Neutral,53684,76.8406961,1,SPPU
+Genba Sopanrao Moze COE,CS,HU,VJ,Gender-Neutral,94371,52.7422372,1,SPPU
+Genba Sopanrao Moze COE,IT,HU,OPEN,Gender-Neutral,51138,78.1143775,1,SPPU
+Genba Sopanrao Moze COE,IT,HU,OBC,Gender-Neutral,54905,76.6166542,1,SPPU
+Genba Sopanrao Moze COE,IT,HU,SC,Gender-Neutral,91474,55.2709127,1,SPPU
+Genba Sopanrao Moze COE,IT,HU,ST,Gender-Neutral,96960,50.8083922,1,SPPU
+Genba Sopanrao Moze COE,IT,HU,NT1,Gender-Neutral,41027,82.869523,1,SPPU
+Genba Sopanrao Moze COE,IT,HU,NT2,Gender-Neutral,56023,75.867353,1,SPPU
+Genba Sopanrao Moze COE,IT,HU,NT3,Gender-Neutral,56980,75.1687111,1,SPPU
+Genba Sopanrao Moze COE,IT,HU,VJ,Gender-Neutral,78262,63.6910141,1,SPPU
+Genba Sopanrao Moze COE,ENTC,HU,OPEN,Gender-Neutral,60361,73.4109953,1,SPPU
+Genba Sopanrao Moze COE,ENTC,HU,OBC,Gender-Neutral,70385,68.3823818,1,SPPU
+Genba Sopanrao Moze COE,ENTC,HU,SC,Gender-Neutral,112587,38.8357386,1,SPPU
+Genba Sopanrao Moze COE,ENTC,HU,ST,Gender-Neutral,64810,71.2687819,1,SPPU
+Genba Sopanrao Moze COE,ENTC,HU,NT1,Gender-Neutral,97429,50.6107355,1,SPPU
+Genba Sopanrao Moze COE,ENTC,HU,NT2,Gender-Neutral,54360,76.7173434,1,SPPU
+Genba Sopanrao Moze COE,ENTC,HU,NT3,Gender-Neutral,61960,73.0265619,1,SPPU
+Genba Sopanrao Moze COE,ENTC,HU,VJ,Gender-Neutral,70381,68.3823818,1,SPPU
+Genba Sopanrao Moze COE,AIML,HU,OPEN,Gender-Neutral,51429,78.067557,1,SPPU
+Genba Sopanrao Moze COE,AIML,HU,OBC,Gender-Neutral,60029,73.4246062,1,SPPU
+Genba Sopanrao Moze COE,AIML,HU,SC,Gender-Neutral,93292,53.6496624,1,SPPU
+Genba Sopanrao Moze COE,AIML,HU,ST,Gender-Neutral,61178,73.2522683,1,SPPU
+Genba Sopanrao Moze COE,AIML,HU,NT1,Gender-Neutral,59875,73.642653,1,SPPU
+Genba Sopanrao Moze COE,AIML,HU,NT2,Gender-Neutral,75060,65.4207881,1,SPPU
+Genba Sopanrao Moze COE,AIML,HU,NT3,Gender-Neutral,58892,74.1935484,1,SPPU
+Genba Sopanrao Moze COE,AIML,HU,VJ,Gender-Neutral,58163,75.0737739,1,SPPU
+Genba Sopanrao Moze COE,AIDS,HU,OPEN,Gender-Neutral,52000,77.9969992,1,SPPU
+Genba Sopanrao Moze COE,AIDS,HU,OBC,Gender-Neutral,58135,75.0737739,1,SPPU
+Genba Sopanrao Moze COE,AIDS,HU,SC,Gender-Neutral,93694,53.1660451,1,SPPU
+Genba Sopanrao Moze COE,AIDS,HU,ST,Gender-Neutral,93492,53.6496624,1,SPPU
+Genba Sopanrao Moze COE,AIDS,HU,NT1,Gender-Neutral,89735,55.9130075,1,SPPU
+Genba Sopanrao Moze COE,AIDS,HU,NT2,Gender-Neutral,57429,75.1476841,1,SPPU
+Genba Sopanrao Moze COE,AIDS,HU,NT3,Gender-Neutral,51790,78.0359147,1,SPPU
+Genba Sopanrao Moze COE,AIDS,HU,VJ,Gender-Neutral,105927,43.6615489,1,SPPU
+Parvatibai Genba Moze COE,CS,HU,OPEN,Gender-Neutral,43512,81.8534982,1,SPPU
+Parvatibai Genba Moze COE,CS,HU,OBC,Gender-Neutral,46777,80.0793682,1,SPPU
+Parvatibai Genba Moze COE,CS,HU,SC,Gender-Neutral,87784,57.7272051,1,SPPU
+Parvatibai Genba Moze COE,CS,HU,ST,Gender-Neutral,73002,66.8171727,1,SPPU
+Parvatibai Genba Moze COE,CS,HU,NT1,Gender-Neutral,96756,51.0567213,1,SPPU
+Parvatibai Genba Moze COE,CS,HU,NT2,Gender-Neutral,46151,80.6210251,1,SPPU
+Parvatibai Genba Moze COE,CS,HU,NT3,Gender-Neutral,46652,80.2375547,1,SPPU
+Parvatibai Genba Moze COE,CS,HU,VJ,Gender-Neutral,59066,74.1356658,1,SPPU
+Parvatibai Genba Moze COE,IT,HU,OPEN,Gender-Neutral,50260,78.4161664,1,SPPU
+Parvatibai Genba Moze COE,IT,HU,OBC,Gender-Neutral,53914,76.839044,1,SPPU
+Parvatibai Genba Moze COE,IT,HU,SC,Gender-Neutral,93957,52.7523799,1,SPPU
+Parvatibai Genba Moze COE,IT,HU,ST,Gender-Neutral,131539,18.1280678,1,SPPU
+Parvatibai Genba Moze COE,IT,HU,NT1,Gender-Neutral,59243,74.1356658,1,SPPU
+Parvatibai Genba Moze COE,IT,HU,NT2,Gender-Neutral,53247,76.9213416,1,SPPU
+Parvatibai Genba Moze COE,IT,HU,NT3,Gender-Neutral,50727,78.3430016,1,SPPU
+Parvatibai Genba Moze COE,IT,HU,VJ,Gender-Neutral,90092,55.8997381,1,SPPU
+Parvatibai Genba Moze COE,AIDS,HU,OPEN,Gender-Neutral,55662,75.8958975,1,SPPU
+Parvatibai Genba Moze COE,AIDS,HU,OBC,Gender-Neutral,62213,72.6119403,1,SPPU
+Parvatibai Genba Moze COE,AIDS,HU,SC,Gender-Neutral,103492,45.9664342,1,SPPU
+Parvatibai Genba Moze COE,AIDS,HU,ST,Gender-Neutral,106505,43.224841,1,SPPU
+Parvatibai Genba Moze COE,AIDS,HU,NT1,Gender-Neutral,45098,81.0090469,1,SPPU
+Parvatibai Genba Moze COE,AIDS,HU,NT2,Gender-Neutral,62729,72.3082536,1,SPPU
+Parvatibai Genba Moze COE,AIDS,HU,NT3,Gender-Neutral,61715,73.1851907,1,SPPU
+Parvatibai Genba Moze COE,AIDS,HU,VJ,Gender-Neutral,107047,43.1162283,1,SPPU
+Parvatibai Genba Moze COE,ENTC,HU,OPEN,Gender-Neutral,67602,69.6572694,1,SPPU
+Parvatibai Genba Moze COE,ENTC,HU,OBC,Gender-Neutral,72902,66.8171727,1,SPPU
+Parvatibai Genba Moze COE,ENTC,HU,SC,Gender-Neutral,124617,26.0127532,1,SPPU
+Parvatibai Genba Moze COE,ENTC,HU,ST,Gender-Neutral,73536,66.4309764,1,SPPU
+Parvatibai Genba Moze COE,ENTC,HU,NT1,Gender-Neutral,120716,30.0860456,1,SPPU
+Parvatibai Genba Moze COE,ENTC,HU,NT2,Gender-Neutral,86915,58.1195238,1,SPPU
+Parvatibai Genba Moze COE,ENTC,HU,NT3,Gender-Neutral,91048,55.2985075,1,SPPU
+Parvatibai Genba Moze COE,ENTC,HU,VJ,Gender-Neutral,62572,72.394012,1,SPPU

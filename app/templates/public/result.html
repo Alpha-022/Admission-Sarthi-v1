@@ -1,0 +1,108 @@
+{% extends "public/templates/public_template.html" %}
+
+{% block scripts_css %}
+<link rel="stylesheet" href={{ url_for('static', filename='css/rstyle.css') }}>
+{% endblock scripts_css %}
+
+{% block title %}Admission Sarthi{% endblock title %}
+
+{% block main %}
+
+<div class='signup-container'>
+
+  <div class='right-container'>
+    {% block headerTitle %}
+    <h1>Congratulations ! <br>
+      <div class="lines">
+        Your expected {{ category }} rank: <strong>{{ ranks }}</strong>
+      </div>
+    </h1>
+    {% endblock headerTitle %}
+
+    <div class='state clg_list'>
+      <p class="heading">You may get below colleges</p>
+    </div>
+
+    <table class="res">
+      <tr>
+        <th>S.No.</th>
+        <th>Institute</th>
+        <th>Branch Name</th>
+        <th>Percentile</th>
+        <th>Probability (%)</th>
+      </tr>
+      {% for index, row in result.iterrows() %}
+      <tr>
+        <td>{{ loop.index }}</td>
+        <td>{{ row['Institute'] }}</td>
+        <td>{{ row['Branch Name'] }}</td>
+        <!-- <td>{{ row['Percentile'] }}</td> -->
+        <td>{{ '%.4f' % row['Percentile'] }}</td>
+        <td>{{ row['Probability'] }}</td>
+      </tr>
+      {% endfor %}
+    </table>
+    <footer>
+      <div class='set'>
+        <button id='export-pdf' onclick="exportToPDF()">Export PDF</button>
+        <button id='export-excel' onclick="exportToExcel()">Export Excel</button>
+        <button id='next' onclick="window.location.href='/'">Back</button>
+      </div>
+    </footer>
+
+  </div>
+</div>
+
+{% endblock main %}
+
+{% block scripts_js %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.4/xlsx.full.min.js"></script>
+<script>
+  const pdfBtn = document.querySelector('#export-pdf');
+const resTable = document.querySelector('.res');
+
+const toPDF = function () {
+    // Fetch category and ranks
+    const category = '{{ category }}'; // Replace '{{ category }}' with the actual value from the backend
+    const ranks = '{{ ranks }}'; // Replace '{{ ranks }}' with the actual value from the backend
+
+    const warningMessage = `
+    <p style="text-align: center; font-weight: bold;">Your expected rank is: <strong>${ranks}</strong></p>
+    <p style="text-align: center; font-weight: bold;">You may get below colleges and branches</p>
+    <hr>`;
+
+    const htmlCode = `
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>College List</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/rstyle.css') }}">
+    </head>
+    <body>
+        <main class="table" id="customers_table">
+            ${warningMessage}
+            ${resTable.outerHTML}
+        </main>
+    </body>
+    </html>`;
+
+    const newWindow = window.open();
+    newWindow.document.write(htmlCode);
+
+    setTimeout(() => {
+        newWindow.print();
+        newWindow.close();
+    }, 400);
+}
+
+pdfBtn.onclick = () => {
+    toPDF();
+}
+  function exportToExcel() {
+    const wb = XLSX.utils.table_to_book(document.querySelector('.res'));
+    XLSX.writeFile(wb, 'college_list.xlsx');
+  }
+</script>
+{% endblock scripts_js %}
